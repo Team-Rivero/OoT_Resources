@@ -1,0 +1,426 @@
+{
+  "lost_woods": {
+    "sounds": [
+      {
+	 "name": "custommusic/lost_woods",
+         "stream": "true"
+      }
+    ]
+  },
+  "deku_tree": {
+    "sounds": [
+      {
+	 "name": "custommusic/deku_tree",
+         "stream": "true"
+      }
+    ]
+  },
+  "kokiri_forest" : {
+    "sounds": [
+      {
+	 "name": "custommusic/kokiri_forest",
+         "stream": "true"
+      }
+    ]
+  },
+  "hyrule_field_morning" : {
+    "sounds": [
+      {
+	 "name": "custommusic/hyrule_field_morning",
+         "stream": "true"
+      }
+    ]
+  },
+  "hyrule_field" : {
+    "sounds": [
+      {
+	 "name": "custommusic/hyrule_field",
+         "stream": "true"
+      }
+    ]
+  },
+  "king_zora" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/king_zora",
+         "stream": "true"
+      }
+    ]
+  },
+  "bongo_murmer" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/bongo_murmer",
+         "stream": "true"
+      }
+    ]
+  },
+  "gameion_scarecrow" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/gameion_scarecrow",
+         "stream": "true"
+      }
+    ]
+  },
+  "blume_scarecrow" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/blume_scarecrow",
+         "stream": "true"
+      }
+    ]
+  },
+  "neex_scarecrow" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/neex_scarecrow",
+         "stream": "true"
+      }
+    ]
+  },
+  "chest_jingle" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/chest_jingle",
+         "stream": "true"
+      }
+    ]
+  },
+  "castle_town" : {
+    "sounds": [
+      {
+	 "name": "custommusic/castle_town",
+         "stream": "true"
+      }
+    ]
+  },
+  "castle_courtyard" : {
+    "sounds": [
+      {
+	 "name": "custommusic/castle_courtyard",
+         "stream": "true"
+      }
+    ]
+  },
+  "princess_zelda" : {
+    "sounds": [
+      {
+	 "name": "custommusic/princess_zelda",
+         "stream": "true"
+      }
+    ]
+  },
+  "inside_house" : {
+    "sounds": [
+      {
+	 "name": "custommusic/inside_house",
+         "stream": "true"
+      }
+    ]
+  },
+  "lon_lon_ranch" : {
+    "sounds": [
+      {
+	 "name": "custommusic/lon_lon_ranch",
+         "stream": "true"
+      }
+    ]
+  },
+  "kakariko_village" : {
+    "sounds": [
+      {
+	 "name": "custommusic/kakariko_village",
+         "stream": "true"
+      }
+    ]
+  },
+  "underground" : {
+    "sounds": [
+      {
+	 "name": "custommusic/underground",
+         "stream": "true"
+      }
+    ]
+  },
+  "goron_city" : {
+    "sounds": [
+      {
+	 "name": "custommusic/goron_city",
+         "stream": "true"
+      }
+    ]
+  },
+  "zora_domain" : {
+    "sounds": [
+      {
+	 "name": "custommusic/zora_domain",
+         "stream": "true"
+      }
+    ]
+  },
+  "dodongo_cavern" : {
+    "sounds": [
+      {
+	 "name": "custommusic/dodongo_cavern",
+         "stream": "true"
+      }
+    ]
+  },
+  "chamber_of_sages" : {
+    "sounds": [
+      {
+	 "name": "custommusic/chamber_of_sages",
+         "stream": "true"
+      }
+    ]
+  },
+  "fairy_fountain" : {
+    "sounds": [
+      {
+	 "name": "custommusic/fairy_fountain",
+         "stream": "true"
+      }
+    ]
+  },
+  "shop" : {
+    "sounds": [
+      {
+	 "name": "custommusic/shop",
+         "stream": "true"
+      }
+    ]
+  },
+  "song_of_storms" : {
+    "sounds": [
+      {
+	 "name": "custommusic/song_of_storms",
+         "stream": "true"
+      }
+    ]
+  },
+  "temple_of_time" : {
+    "sounds": [
+      {
+	 "name": "custommusic/temple_of_time",
+         "stream": "true"
+      }
+    ]
+  },
+  "jabu_jabu" : {
+    "sounds": [
+      {
+	 "name": "custommusic/jabu_jabu",
+         "stream": "true"
+      }
+    ]
+  },
+  "horse_race" : {
+    "sounds": [
+      {
+	 "name": "custommusic/horse_race",
+         "stream": "true"
+      }
+    ]
+  },
+  "sheik" : {
+    "sounds": [
+      {
+	 "name": "custommusic/sheik",
+         "stream": "true"
+      }
+    ]
+  },
+  "forest_temple" : {
+    "sounds": [
+      {
+	 "name": "custommusic/forest_temple",
+         "stream": "true"
+      }
+    ]
+  },
+  "boss_theme" : {
+    "sounds": [
+      {
+	 "name": "custommusic/boss_theme",
+         "stream": "true"
+      }
+    ]
+  },
+  "mini_boss_theme" : {
+    "sounds": [
+      {
+	 "name": "custommusic/mini_boss_theme",
+         "stream": "true"
+      }
+    ]
+  },
+  "fire_temple" : {
+    "sounds": [
+      {
+	 "name": "custommusic/fire_temple",
+         "stream": "true"
+      }
+    ]
+  },
+  "fire_boss_theme" : {
+    "sounds": [
+      {
+	 "name": "custommusic/fire_boss_theme",
+         "stream": "true"
+      }
+    ]
+  },
+  "ice_cavern" : {
+    "sounds": [
+      {
+	 "name": "custommusic/ice_cavern",
+         "stream": "true"
+      }
+    ]
+  },
+  "navi_fly" : {
+    "sounds": [
+      {
+	 "name": "custommusic/navi_fly",
+         "stream": "true"
+      }
+    ]
+  },
+  "kotake_koume" : {
+    "sounds": [
+      {
+	 "name": "custommusic/kotake_koume",
+         "stream": "true"
+      }
+    ]
+  },
+  "intro" : {
+    "sounds": [
+      {
+	 "name": "custommusic/intro",
+         "stream": "true"
+      }
+    ]
+  },
+  "spirit_temple" : {
+    "sounds": [
+      {
+	 "name": "custommusic/spirit_temple",
+         "stream": "true"
+      }
+    ]
+  },
+  "gerudo_valley" : {
+    "sounds": [
+      {
+	 "name": "custommusic/gerudo_valley",
+         "stream": "true"
+      }
+    ]
+  },
+  "owl_theme" : {
+    "sounds": [
+      {
+	 "name": "custommusic/owl_theme",
+         "stream": "true"
+      }
+    ]
+  },
+  "water_temple" : {
+    "sounds": [
+      {
+	 "name": "custommusic/water_temple",
+         "stream": "true"
+      }
+    ]
+  },
+  "ganon_tower" : {
+    "sounds": [
+      {
+	 "name": "custommusic/ganon_tower",
+         "stream": "true"
+      }
+    ]
+  },
+  "shadow_temple" : {
+    "sounds": [
+      {
+	 "name": "custommusic/shadow_temple",
+         "stream": "true"
+      }
+    ]
+  },
+  "potion_shop" : {
+    "sounds": [
+      {
+	 "name": "custommusic/potion_shop",
+         "stream": "true"
+      }
+    ]
+  },
+  "shooting_gallery" : {
+    "sounds": [
+      {
+	 "name": "custommusic/shooting_gallery",
+         "stream": "true"
+      }
+    ]
+  },
+  "minigame" : {
+    "sounds": [
+      {
+	 "name": "custommusic/minigame",
+         "stream": "true"
+      }
+    ]
+  },
+  "ganondorf" : {
+    "sounds": [
+      {
+	 "name": "custommusic/ganondorf",
+         "stream": "true"
+      }
+    ]
+  },
+  "underground_ganon_castle" : {
+    "sounds": [
+      {
+	 "name": "custommusic/underground_ganon_castle",
+         "stream": "true"
+      }
+    ]
+  },
+  "ganondorf_boss" : {
+    "sounds": [
+      {
+	 "name": "custommusic/ganondorf_boss",
+         "stream": "true"
+      }
+    ]
+  },
+  "escape_ganon_castle" : {
+    "sounds": [
+      {
+	 "name": "custommusic/escape_ganon_castle",
+         "stream": "true"
+      }
+    ]
+  },
+  "final_battle" : {
+    "sounds": [
+      {
+	 "name": "custommusic/final_battle",
+         "stream": "true"
+      }
+    ]
+  },
+    "staff_role" : {
+    "sounds": [
+      {
+	 "name": "custommusic/staff_role",
+         "stream": "true"
+      }
+    ]
+  }
+}

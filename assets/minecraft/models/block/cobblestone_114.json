@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/stonecutter_saw",
+		"particle": "block/stonecutter_saw"
+	},
+	"elements": [
+		{
+			"from": [-8.8, 9.6, -0.25],
+			"to": [24.8, 26.4, -0.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.2, -0.25]},
+			"faces": {
+				"north": {"uv": [1, 9, 15, 16], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [1, 9, 15, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8.8, -7.2, -0.25],
+			"to": [24.8, 9.6, -0.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, -0.25]},
+			"faces": {
+				"north": {"uv": [15, 16, 1, 9], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [15, 16, 1, 9], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"head": {
+			"translation": [0, -7, -10]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/stone"
+    },
+    "cases": [
+      {
+        "when": "owlstand",
+        "model": {
+          "type": "model",
+          "model": "block/owlstand"
+        }
+      }
+    ]
+  }
+}

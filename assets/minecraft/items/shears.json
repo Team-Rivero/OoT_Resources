@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/shears"
+    },
+    "cases": [
+      {
+        "when": "slingshot",
+        "model": {
+          "type": "model",
+          "model": "item/slingshot"
+        }
+      }
+    ]
+  }
+}

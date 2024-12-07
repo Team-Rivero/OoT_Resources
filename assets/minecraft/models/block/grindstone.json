@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"pivot": "block/grindstone_pivot",
+		"round": "block/grindstone_round",
+		"particle": "block/grindstone_side",
+		"side": "block/grindstone_side",
+		"leg": "block/dark_oak_log"
+	}
+}

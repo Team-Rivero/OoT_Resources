@@ -1,0 +1,31 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/white_stained_glass_pane"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "block/white_stained_glass_pane_1"},
+        { "predicate": {"custom_model_data": 2}, "model": "block/white_stained_glass_pane_2"},
+        { "predicate": {"custom_model_data": 3}, "model": "block/white_stained_glass_pane_3"},
+        { "predicate": {"custom_model_data": 4}, "model": "block/white_stained_glass_pane_4"},
+        { "predicate": {"custom_model_data": 5}, "model": "block/white_stained_glass_pane_5"},
+        { "predicate": {"custom_model_data": 6}, "model": "block/white_stained_glass_pane_6"},
+        { "predicate": {"custom_model_data": 7}, "model": "block/white_stained_glass_pane_7"},
+        { "predicate": {"custom_model_data": 8}, "model": "block/white_stained_glass_pane_8"},
+        { "predicate": {"custom_model_data": 9}, "model": "block/white_stained_glass_pane_9"},
+        { "predicate": {"custom_model_data": 10}, "model": "block/white_stained_glass_pane_10"},
+        { "predicate": {"custom_model_data": 11}, "model": "block/white_stained_glass_pane_11"},
+        { "predicate": {"custom_model_data": 12}, "model": "block/white_stained_glass_pane_12"},
+        { "predicate": {"custom_model_data": 13}, "model": "block/white_stained_glass_pane_13"},
+        { "predicate": {"custom_model_data": 14}, "model": "block/white_stained_glass_pane_14"},
+        { "predicate": {"custom_model_data": 15}, "model": "block/white_stained_glass_pane_15"},
+        { "predicate": {"custom_model_data": 16}, "model": "block/white_stained_glass_pane_16"},
+        { "predicate": {"custom_model_data": 17}, "model": "block/white_stained_glass_pane_17"},
+        { "predicate": {"custom_model_data": 18}, "model": "block/white_stained_glass_pane_18"},
+        { "predicate": {"custom_model_data": 19}, "model": "block/white_stained_glass_pane_19"},
+        { "predicate": {"custom_model_data": 20}, "model": "block/white_stained_glass_pane_20"},
+        { "predicate": {"custom_model_data": 21}, "model": "block/white_stained_glass_pane_21"},
+        { "predicate": {"custom_model_data": 22}, "model": "block/white_stained_glass_pane_22"},
+        { "predicate": {"custom_model_data": 23}, "model": "block/white_stained_glass_pane_23"}
+    ]
+}

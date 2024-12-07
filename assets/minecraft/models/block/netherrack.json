@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/netherrack"
+	},
+	"display": {
+		"head": {
+			"scale": [3, 3, 3]
+		}
+	}
+}

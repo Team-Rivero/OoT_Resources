@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/birch_sapling"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "block/birch_sapling"}
+    ]
+}

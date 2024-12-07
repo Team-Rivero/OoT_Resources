@@ -1,0 +1,35 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/bombchu"},
+		{ "predicate": {"damaged": 0, "damage": 0.04}, "model": "item/bottled_fairy"},
+		{ "predicate": {"damaged": 0, "damage": 0.08}, "model": "item/bottled_bug"},
+		{ "predicate": {"damaged": 0, "damage": 0.12}, "model": "item/fish"},
+		{ "predicate": {"damaged": 0, "damage": 0.16}, "model": "item/poe_soul"},
+		{ "predicate": {"damaged": 0, "damage": 0.2}, "model": "item/big_poe_soul"},
+		{ "predicate": {"damaged": 0, "damage": 0.24}, "model": "item/milk"},
+		{ "predicate": {"damaged": 0, "damage": 0.28}, "model": "item/milk_half"},
+		{ "predicate": {"damaged": 0, "damage": 0.32}, "model": "item/boomerang"},
+		{ "predicate": {"damaged": 0, "damage": 0.36}, "model": "item/ocarina_saria"},
+		{ "predicate": {"damaged": 0, "damage": 0.40}, "model": "item/ocarina_zelda"},
+		{ "predicate": {"damaged": 0, "damage": 0.44}, "model": "item/hookshot"},
+		{ "predicate": {"damaged": 0, "damage": 0.48}, "model": "item/longshot"},
+		{ "predicate": {"damaged": 0, "damage": 0.52}, "model": "item/din_fire"},
+		{ "predicate": {"damaged": 0, "damage": 0.56}, "model": "item/farore_wind"},
+		{ "predicate": {"damaged": 0, "damage": 0.60}, "model": "item/nayru_love"},
+		{ "predicate": {"damaged": 0, "damage": 0.64}, "model": "item/deku_stick_lit"},
+		{ "predicate": {"damaged": 0, "damage": 0.68}, "model": "item/deku_nut"},
+		{ "predicate": {"damaged": 0, "damage": 0.72}, "model": "item/blue_fire"},
+		{ "predicate": {"damaged": 0, "damage": 0.76}, "model": "item/green_potion"},
+		{ "predicate": {"damaged": 0, "damage": 0.80}, "model": "item/red_potion"},
+		{ "predicate": {"damaged": 0, "damage": 0.84}, "model": "item/compass"},
+		{ "predicate": {"damaged": 0, "damage": 0.88}, "model": "item/blue_potion"},
+		{ "predicate": {"damaged": 0, "damage": 0.92}, "model": "item/lens_of_truth"},
+		{ "predicate": {"damaged": 0, "damage": 0.96}, "model": "item/lens_of_truth_2"},
+		{ "predicate": {"damaged": 0, "damage": 1.00}, "model": "item/bombchu"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/carrot_on_a_stick"}
+	]
+}

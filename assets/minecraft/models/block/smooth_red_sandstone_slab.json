@@ -1,0 +1,15 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "block/red_sandstone_top",
+		"top": "block/red_sandstone_top",
+		"side": "block/red_sandstone_top"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 6.5, 0],
+			"scale": [1.6, 1, 1.6]
+		}
+	}
+}

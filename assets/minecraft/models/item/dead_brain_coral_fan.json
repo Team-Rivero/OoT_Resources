@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/dead_brain_coral_fan"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "block/dead_brain_coral_fan_top"},
+        { "predicate": {"custom_model_data": 2}, "model": "block/dead_brain_coral_fan_side"}
+    ]
+}
