@@ -15,7 +15,7 @@
         }
       },
       {
-        "when": "arrows",
+        "when": "arrow",
         "model": {
           "type": "model",
           "model": "item/arrow"
@@ -190,13 +190,6 @@
         }
       },
       {
-        "when": "broken_knife",
-        "model": {
-          "type": "model",
-          "model": "item/broken_knife"
-        }
-      },
-      {
         "when": "odd_mushroom",
         "model": {
           "type": "model",
@@ -236,13 +229,6 @@
         "model": {
           "type": "model",
           "model": "item/eyedrops"
-        }
-      },
-      {
-        "when": "correct",
-        "model": {
-          "type": "model",
-          "model": "item/correct"
         }
       },
       {
