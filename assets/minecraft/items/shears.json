@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/slingshot"
         }
+      },
+      {
+        "when": "broken_knife",
+        "model": {
+          "type": "model",
+          "model": "item/broken_knife"
+        }
       }
     ]
   }

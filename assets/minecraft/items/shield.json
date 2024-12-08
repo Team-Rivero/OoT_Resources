@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "condition",
+
+    "on_false": {
+      "type": "select",
+      "property": "custom_model_data",
+  
+      "fallback": {
+        "type": "model",
+        "model": "item/shield"
+      },
+      
+      "cases": [
+        {
+          "when": "deku_shield",
+          "model": {
+            "type": "model",
+            "model": "block/deku_shield"
+          }
+        }
+      ]
+    },
+
+    "on_true": {
+      "type": "select",
+      "property": "custom_model_data",
+  
+      "fallback": {
+        "type": "model",
+        "model": "item/shield"
+      },
+      
+      "cases": [
+        {
+          "when": "deku_shield",
+          "model": {
+            "type": "model",
+            "model": "block/deku_shield_blocking"
+          }
+        }
+      ]
+    },
+    
+    "property": "using_item"
+  }
+}
