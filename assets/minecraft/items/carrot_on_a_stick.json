@@ -1,0 +1,187 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/carrot_on_a_stick"
+    },
+    "cases": [
+      {
+        "when": "bombchu",
+        "model": {
+          "type": "model",
+          "model": "item/bombchu"
+        }
+      },
+      {
+        "when": "bottled_fairy",
+        "model": {
+          "type": "model",
+          "model": "item/bottled_fairy"
+        }
+      },
+      {
+        "when": "bottled_bug",
+        "model": {
+          "type": "model",
+          "model": "item/bottled_bug"
+        }
+      },
+      {
+        "when": "fish",
+        "model": {
+          "type": "model",
+          "model": "item/fish"
+        }
+      },
+      {
+        "when": "poe_soul",
+        "model": {
+          "type": "model",
+          "model": "item/poe_soul"
+        }
+      },
+      {
+        "when": "big_poe_soul",
+        "model": {
+          "type": "model",
+          "model": "item/big_poe_soul"
+        }
+      },
+      {
+        "when": "milk",
+        "model": {
+          "type": "model",
+          "model": "item/milk"
+        }
+      },
+      {
+        "when": "milk_half",
+        "model": {
+          "type": "model",
+          "model": "item/milk_half"
+        }
+      },
+      {
+        "when": "boomerang",
+        "model": {
+          "type": "model",
+          "model": "item/boomerang"
+        }
+      },
+      {
+        "when": "ocarina_saria",
+        "model": {
+          "type": "model",
+          "model": "item/ocarina_saria"
+        }
+      },
+      {
+        "when": "ocarina_zelda",
+        "model": {
+          "type": "model",
+          "model": "item/ocarina_zelda"
+        }
+      },
+      {
+        "when": "hookshot",
+        "model": {
+          "type": "model",
+          "model": "item/hookshot"
+        }
+      },
+      {
+        "when": "longshot",
+        "model": {
+          "type": "model",
+          "model": "item/longshot"
+        }
+      },
+      {
+        "when": "din_fire",
+        "model": {
+          "type": "model",
+          "model": "item/din_fire"
+        }
+      },
+      {
+        "when": "farore_wind",
+        "model": {
+          "type": "model",
+          "model": "item/farore_wind"
+        }
+      },
+      {
+        "when": "nayru_love",
+        "model": {
+          "type": "model",
+          "model": "item/nayru_love"
+        }
+      },
+      {
+        "when": "deku_stick_lit",
+        "model": {
+          "type": "model",
+          "model": "item/deku_stick_lit"
+        }
+      },
+      {
+        "when": "deku_nut",
+        "model": {
+          "type": "model",
+          "model": "item/deku_nut"
+        }
+      },
+      {
+        "when": "blue_fire",
+        "model": {
+          "type": "model",
+          "model": "item/blue_fire"
+        }
+      },
+      {
+        "when": "green_potion",
+        "model": {
+          "type": "model",
+          "model": "item/green_potion"
+        }
+      },
+      {
+        "when": "red_potion",
+        "model": {
+          "type": "model",
+          "model": "item/red_potion"
+        }
+      },
+      {
+        "when": "compass",
+        "model": {
+          "type": "model",
+          "model": "item/compass"
+        }
+      },
+      {
+        "when": "blue_potion",
+        "model": {
+          "type": "model",
+          "model": "item/blue_potion"
+        }
+      },
+      {
+        "when": "lens_of_truth",
+        "model": {
+          "type": "model",
+          "model": "item/lens_of_truth"
+        }
+      },
+      {
+        "when": "lens_of_truth_2",
+        "model": {
+          "type": "model",
+          "model": "item/lens_of_truth_2"
+        }
+      }
+    ]
+  }
+}

@@ -18,6 +18,34 @@
             "type": "model",
             "model": "block/deku_shield"
           }
+        },
+        {
+          "when": "hylian_shield",
+          "model": {
+            "type": "model",
+            "model": "block/hylian_shield"
+          }
+        },
+        {
+          "when": "mirror_shield_base",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield"
+          }
+        },
+        {
+          "when": "mirror_shield_fire",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield_fire"
+          }
+        },
+        {
+          "when": "mirror_shield_ice",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield_ice"
+          }
         }
       ]
     },
@@ -37,6 +65,34 @@
           "model": {
             "type": "model",
             "model": "block/deku_shield_blocking"
+          }
+        },
+        {
+          "when": "hylian_shield",
+          "model": {
+            "type": "model",
+            "model": "block/hylian_shield_blocking"
+          }
+        },
+        {
+          "when": "mirror_shield_base",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield_blocking"
+          }
+        },
+        {
+          "when": "mirror_shield_fire",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield_fire_blocking"
+          }
+        },
+        {
+          "when": "mirror_shield_ice",
+          "model": {
+            "type": "model",
+            "model": "block/mirror_shield_ice_blocking"
           }
         }
       ]
