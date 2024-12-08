@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/zora_saphire"
+        "layer0": "item/zora_sapphire"
     },
     "display": {
         "ground": {

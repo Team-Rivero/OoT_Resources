@@ -8,6 +8,76 @@
     },
     "cases": [
       {
+        "when": "broken_knife",
+        "model": {
+          "type": "model",
+          "model": "item/broken_knife"
+        }
+      },
+      {
+        "when": "arrows",
+        "model": {
+          "type": "model",
+          "model": "item/arrow"
+        }
+      },
+      {
+        "when": "cucco_white",
+        "model": {
+          "type": "model",
+          "model": "item/cucco_white"
+        }
+      },
+      {
+        "when": "cucco_blue",
+        "model": {
+          "type": "model",
+          "model": "item/cucco_blue"
+        }
+      },
+      {
+        "when": "silver_rupee",
+        "model": {
+          "type": "model",
+          "model": "item/silver_rupee"
+        }
+      },
+      {
+        "when": "magic_jar",
+        "model": {
+          "type": "model",
+          "model": "item/magic_jar"
+        }
+      },
+      {
+        "when": "magic_jar_giant",
+        "model": {
+          "type": "model",
+          "model": "item/magic_jar_giant"
+        }
+      },
+      {
+        "when": "kokiri_emerald",
+        "model": {
+          "type": "model",
+          "model": "item/kokiri_emerald"
+        }
+      },
+      {
+        "when": "goron_ruby",
+        "model": {
+          "type": "model",
+          "model": "item/goron_ruby"
+        }
+      },
+      {
+        "when": "zora_sapphire",
+        "model": {
+          "type": "model",
+          "model": "item/zora_sapphire"
+        }
+      },
+      {
         "when": "slingshot",
         "model": {
           "type": "model",
@@ -15,10 +85,339 @@
         }
       },
       {
+        "when": "fairy",
+        "model": {
+          "type": "model",
+          "model": "item/fairy"
+        }
+      },
+      {
+        "when": "heart",
+        "model": {
+          "type": "model",
+          "model": "item/heart"
+        }
+      },
+      {
+        "when": "bug",
+        "model": {
+          "type": "model",
+          "model": "item/bug"
+        }
+      },
+      {
+        "when": "claim_check",
+        "model": {
+          "type": "model",
+          "model": "item/claim_check"
+        }
+      },
+      {
+        "when": "letter_bottle",
+        "model": {
+          "type": "model",
+          "model": "item/letter_bottle"
+        }
+      },
+      {
+        "when": "deku_seeds",
+        "model": {
+          "type": "model",
+          "model": "item/deku_seeds"
+        }
+      },
+      {
+        "when": "green_rupee",
+        "model": {
+          "type": "model",
+          "model": "item/green_rupee"
+        }
+      },
+      {
+        "when": "blue_rupee",
+        "model": {
+          "type": "model",
+          "model": "item/blue_rupee"
+        }
+      },
+      {
+        "when": "blue_rupee_2",
+        "model": {
+          "type": "model",
+          "model": "item/blue_rupee_2"
+        }
+      },
+      {
+        "when": "red_rupee",
+        "model": {
+          "type": "model",
+          "model": "item/red_rupee"
+        }
+      },
+      {
+        "when": "nothing",
+        "model": {
+          "type": "model",
+          "model": "item/nothing"
+        }
+      },
+      {
+        "when": "boss_key",
+        "model": {
+          "type": "model",
+          "model": "item/boss_key"
+        }
+      },
+      {
+        "when": "phantom_ganon",
+        "model": {
+          "type": "model",
+          "model": "item/phantom_ganon"
+        }
+      },
+      {
+        "when": "phantom_ganon_2",
+        "model": {
+          "type": "model",
+          "model": "item/phantom_ganon_2"
+        }
+      },
+      {
+        "when": "phantom_ganon_3",
+        "model": {
+          "type": "model",
+          "model": "item/phantom_ganon_3"
+        }
+      },
+      {
         "when": "broken_knife",
         "model": {
           "type": "model",
           "model": "item/broken_knife"
+        }
+      },
+      {
+        "when": "odd_mushroom",
+        "model": {
+          "type": "model",
+          "model": "item/odd_mushroom"
+        }
+      },
+      {
+        "when": "odd_poultice",
+        "model": {
+          "type": "model",
+          "model": "item/odd_poultice"
+        }
+      },
+      {
+        "when": "saw",
+        "model": {
+          "type": "model",
+          "model": "item/saw"
+        }
+      },
+      {
+        "when": "prescription",
+        "model": {
+          "type": "model",
+          "model": "item/prescription"
+        }
+      },
+      {
+        "when": "eyeball_frog",
+        "model": {
+          "type": "model",
+          "model": "item/eyeball_frog"
+        }
+      },
+      {
+        "when": "eyedrops",
+        "model": {
+          "type": "model",
+          "model": "item/eyedrops"
+        }
+      },
+      {
+        "when": "correct",
+        "model": {
+          "type": "model",
+          "model": "item/correct"
+        }
+      },
+      {
+        "when": "correct",
+        "model": {
+          "type": "model",
+          "model": "item/correct"
+        }
+      },
+      {
+        "when": "big_fairy",
+        "model": {
+          "type": "model",
+          "model": "item/big_fairy"
+        }
+      },
+      {
+        "when": "weird_egg",
+        "model": {
+          "type": "model",
+          "model": "item/weird_egg"
+        }
+      },
+      {
+        "when": "bomb_bag",
+        "model": {
+          "type": "model",
+          "model": "item/bomb_bag"
+        }
+      },
+      {
+        "when": "big_poe_soul",
+        "model": {
+          "type": "model",
+          "model": "item/big_poe_soul"
+        }
+      },
+      {
+        "when": "purple_rupee",
+        "model": {
+          "type": "model",
+          "model": "item/purple_rupee"
+        }
+      },
+      {
+        "when": "silver_gauntlets",
+        "model": {
+          "type": "model",
+          "model": "item/silver_gauntlets"
+        }
+      },
+      {
+        "when": "bullet_bag",
+        "model": {
+          "type": "model",
+          "model": "item/bullet_bag"
+        }
+      },
+      {
+        "when": "goron_bracelet",
+        "model": {
+          "type": "model",
+          "model": "item/goron_bracelet"
+        }
+      },
+      {
+        "when": "silver_scale",
+        "model": {
+          "type": "model",
+          "model": "item/silver_scale"
+        }
+      },
+      {
+        "when": "golden_scale",
+        "model": {
+          "type": "model",
+          "model": "item/golden_scale"
+        }
+      },
+      {
+        "when": "golden_gauntlets",
+        "model": {
+          "type": "model",
+          "model": "item/golden_gauntlets"
+        }
+      },
+      {
+        "when": "light_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/light_medallion"
+        }
+      },
+      {
+        "when": "forest_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/forest_medallion"
+        }
+      },
+      {
+        "when": "fire_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/fire_medallion"
+        }
+      },
+      {
+        "when": "water_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/water_medallion"
+        }
+      },
+      {
+        "when": "shadow_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/shadow_medallion"
+        }
+      },
+      {
+        "when": "spirit_medallion",
+        "model": {
+          "type": "model",
+          "model": "item/spirit_medallion"
+        }
+      },
+      {
+        "when": "quiver",
+        "model": {
+          "type": "model",
+          "model": "item/quiver"
+        }
+      },
+      {
+        "when": "big_quiver",
+        "model": {
+          "type": "model",
+          "model": "item/big_quiver"
+        }
+      },
+      {
+        "when": "biggest_quiver",
+        "model": {
+          "type": "model",
+          "model": "item/biggest_quiver"
+        }
+      },
+      {
+        "when": "gerudo_token",
+        "model": {
+          "type": "model",
+          "model": "item/gerudo_token"
+        }
+      },
+      {
+        "when": "adult_wallet",
+        "model": {
+          "type": "model",
+          "model": "item/adult_wallet"
+        }
+      },
+      {
+        "when": "shard_agony",
+        "model": {
+          "type": "model",
+          "model": "item/shard_agony"
+        }
+      },
+      {
+        "when": "giant_wallet",
+        "model": {
+          "type": "model",
+          "model": "item/giant_wallet"
         }
       }
     ]
