@@ -8,13 +8,6 @@
     },
     "cases": [
       {
-        "when": "owlstand",
-        "model": {
-          "type": "model",
-          "model": "block/owlstand"
-        }
-      },
-      {
         "when": "arms_1",
         "model": {
           "type": "model",

@@ -13,6 +13,34 @@
           "type": "model",
           "model": "block/owl_stand"
         }
+      },
+      {
+        "when": "gold_skulltula_wall",
+        "model": {
+          "type": "model",
+          "model": "block/gold_skulltula_wall"
+        }
+      },
+      {
+        "when": "gold_skulltula_floor",
+        "model": {
+          "type": "model",
+          "model": "block/gold_skulltula_floor"
+        }
+      },
+      {
+        "when": "deku_baba_open",
+        "model": {
+          "type": "model",
+          "model": "block/deku_baba_open"
+        }
+      },
+      {
+        "when": "deku_baba_closed",
+        "model": {
+          "type": "model",
+          "model": "block/deku_baba_closed"
+        }
       }
     ]
   }
