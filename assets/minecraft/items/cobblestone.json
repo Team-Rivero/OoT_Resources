@@ -27,7 +27,7 @@
           "type": "model",
           "model": "block/gold_skulltula_floor"
         }
-      },
+      },  
       {
         "when": "deku_baba_open",
         "model": {
@@ -40,6 +40,34 @@
         "model": {
           "type": "model",
           "model": "block/deku_baba_closed"
+        }
+      },
+      {
+        "when": "deku_tree_sprout",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_sprout"
+        }
+      },
+      {
+        "when": "deku_scrub_1",
+        "model": {
+          "type": "model",
+          "model": "block/deku_scrub_1"
+        }
+      },
+      {
+        "when": "wolfos",
+        "model": {
+          "type": "model",
+          "model": "block/wolfos"
+        }
+      },
+      {
+        "when": "bunny_hood",
+        "model": {
+          "type": "model",
+          "model": "block/bunny_hood"
         }
       }
     ]
