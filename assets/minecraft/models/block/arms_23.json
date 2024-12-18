@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "entity/skeleton/skeleton",
+		"3": "item/skeleton_arm",
 		"particle": "block/emerald_block"
 	},
 	"elements": [
@@ -9,12 +9,12 @@
 			"from": [6, 0, 6],
 			"to": [10, 12, 10],
 			"faces": {
-				"north": {"uv": [0.5, 9, 1, 12.5], "texture": "#2"},
-				"east": {"uv": [0.5, 9, 1, 12.5], "texture": "#2"},
-				"south": {"uv": [0.5, 9, 1, 12.5], "texture": "#2"},
-				"west": {"uv": [0.5, 9, 1, 12.5], "texture": "#2"},
-				"up": {"uv": [1, 9, 1.5, 10.5], "texture": "#2"},
-				"down": {"uv": [1, 9, 1.5, 10.5], "texture": "#2"}
+				"north": {"uv": [6, 4, 8, 11], "texture": "#3"},
+				"east": {"uv": [6, 4, 8, 11], "texture": "#3"},
+				"south": {"uv": [6, 4, 8, 11], "texture": "#3"},
+				"west": {"uv": [6, 4, 8, 11], "texture": "#3"},
+				"up": {"uv": [8, 4, 10, 6], "texture": "#3"},
+				"down": {"uv": [8, 4, 10, 6], "texture": "#3"}
 			}
 		}
 	],
