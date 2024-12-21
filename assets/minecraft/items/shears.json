@@ -22,17 +22,17 @@
         }
       },
       {
-        "when": "cucco_white",
+        "when": "cucco",
         "model": {
           "type": "model",
-          "model": "item/cucco_white"
+          "model": "item/cucco"
         }
       },
       {
-        "when": "cucco_blue",
+        "when": "cojiro",
         "model": {
           "type": "model",
-          "model": "item/cucco_blue"
+          "model": "item/cojiro"
         }
       },
       {
@@ -404,6 +404,13 @@
         "model": {
           "type": "model",
           "model": "item/giant_wallet"
+        }
+      },
+      {
+        "when": "no_mask",
+        "model": {
+          "type": "model",
+          "model": "item/no_mask"
         }
       }
     ]
