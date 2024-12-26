@@ -412,6 +412,27 @@
           "type": "model",
           "model": "item/no_mask"
         }
+      },
+      {
+        "when": "heart_piece",
+        "model": {
+          "type": "model",
+          "model": "item/heart_piece"
+        }
+      },
+      {
+        "when": "heart_container",
+        "model": {
+          "type": "model",
+          "model": "item/heart_container"
+        }
+      },
+      {
+        "when": "skull_token",
+        "model": {
+          "type": "model",
+          "model": "item/skull_token"
+        }
       }
     ]
   }
