@@ -433,6 +433,13 @@
           "type": "model",
           "model": "item/skull_token"
         }
+      },
+      {
+        "when": "windmill",
+        "model": {
+          "type": "model",
+          "model": "item/windmill"
+        }
       }
     ]
   }
