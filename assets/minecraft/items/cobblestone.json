@@ -85,6 +85,13 @@
         }
       },
       {
+        "when": "white_wolfos",
+        "model": {
+          "type": "model",
+          "model": "block/white_wolfos"
+        }
+      },
+      {
         "when": "bunny_hood",
         "model": {
           "type": "model",
@@ -680,13 +687,6 @@
         }
       },
       {
-        "when": "white_wolfos",
-        "model": {
-          "type": "model",
-          "model": "block/white_wolfos"
-        }
-      },
-      {
         "when": "stalfos",
         "model": {
           "type": "model",
@@ -904,6 +904,13 @@
         }
       },
       {
+        "when": "king_dodongo_roll",
+        "model": {
+          "type": "model",
+          "model": "block/king_dodongo_roll"
+        }
+      },
+      {
         "when": "dodongo",
         "model": {
           "type": "model",
@@ -943,6 +950,97 @@
         "model": {
           "type": "model",
           "model": "block/like-like_suck"
+        }
+      },
+      {
+        "when": "skulltula",
+        "model": {
+          "type": "model",
+          "model": "block/skulltula"
+        }
+      },
+      {
+        "when": "skullwalltula",
+        "model": {
+          "type": "model",
+          "model": "block/skullwalltula"
+        }
+      },
+      {
+        "when": "peahat_larva",
+        "model": {
+          "type": "model",
+          "model": "block/peahat_larva"
+        }
+      },
+      {
+        "when": "peahat_base",
+        "model": {
+          "type": "model",
+          "model": "block/peahat_base"
+        }
+      },
+      {
+        "when": "peahat_blades",
+        "model": {
+          "type": "model",
+          "model": "block/peahat_blades"
+        }
+      },
+      {
+        "when": "floormaster",
+        "model": {
+          "type": "model",
+          "model": "block/floormaster"
+        }
+      },
+      {
+        "when": "floormaster_shadow",
+        "model": {
+          "type": "model",
+          "model": "block/floormaster_shadow"
+        }
+      },
+      {
+        "when": "green_poe_painting",
+        "model": {
+          "type": "model",
+          "model": "block/green_poe_painting"
+        }
+      },
+      {
+        "when": "red_poe_painting",
+        "model": {
+          "type": "model",
+          "model": "block/red_poe_painting"
+        }
+      },
+      {
+        "when": "blue_poe_painting",
+        "model": {
+          "type": "model",
+          "model": "block/blue_poe_painting"
+        }
+      },
+      {
+        "when": "torch_slug",
+        "model": {
+          "type": "model",
+          "model": "block/torch_slug"
+        }
+      },
+      {
+        "when": "door_mimic",
+        "model": {
+          "type": "model",
+          "model": "block/door_mimic"
+        }
+      },
+      {
+        "when": "flying_pot",
+        "model": {
+          "type": "model",
+          "model": "block/flying_pot"
         }
       }
     ]
