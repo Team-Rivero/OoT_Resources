@@ -568,6 +568,13 @@
         }
       },
       {
+        "when": "bubble_2",
+        "model": {
+          "type": "model",
+          "model": "block/bubble_2"
+        }
+      },
+      {
         "when": "scythe_blade",
         "model": {
           "type": "model",
@@ -642,6 +649,13 @@
         "model": {
           "type": "model",
           "model": "block/gerudo_pot"
+        }
+      },
+      {
+        "when": "lizalfos",
+        "model": {
+          "type": "model",
+          "model": "block/lizalfos"
         }
       },
       {
@@ -817,6 +831,118 @@
         "model": {
           "type": "model",
           "model": "block/baby_dodongo"
+        }
+      },
+      {
+        "when": "gohma_larva",
+        "model": {
+          "type": "model",
+          "model": "block/gohma_larva"
+        }
+      },
+      {
+        "when": "gohma",
+        "model": {
+          "type": "model",
+          "model": "block/gohma"
+        }
+      },
+      {
+        "when": "volvagia_body",
+        "model": {
+          "type": "model",
+          "model": "block/volvagia_body"
+        }
+      },
+      {
+        "when": "volvagia_arms",
+        "model": {
+          "type": "model",
+          "model": "block/volvagia_arms"
+        }
+      },
+      {
+        "when": "volvagia_head",
+        "model": {
+          "type": "model",
+          "model": "block/volvagia_head"
+        }
+      },
+      {
+        "when": "armos",
+        "model": {
+          "type": "model",
+          "model": "block/armos"
+        }
+      },
+      {
+        "when": "blade_trap",
+        "model": {
+          "type": "model",
+          "model": "block/blade_trap"
+        }
+      },
+      {
+        "when": "dodongo_head_opened",
+        "model": {
+          "type": "model",
+          "model": "block/dodongo_head_opened"
+        }
+      },
+      {
+        "when": "dodongo_head_closed",
+        "model": {
+          "type": "model",
+          "model": "block/dodongo_head_closed"
+        }
+      },
+      {
+        "when": "dodongo_body",
+        "model": {
+          "type": "model",
+          "model": "block/dodongo_body"
+        }
+      },
+      {
+        "when": "dodongo",
+        "model": {
+          "type": "model",
+          "model": "block/dodongo"
+        }
+      },
+      {
+        "when": "tailpasaran",
+        "model": {
+          "type": "model",
+          "model": "block/tailpasaran"
+        }
+      },
+      {
+        "when": "stinger",
+        "model": {
+          "type": "model",
+          "model": "block/stinger"
+        }
+      },
+      {
+        "when": "flare_dancer",
+        "model": {
+          "type": "model",
+          "model": "block/flare_dancer"
+        }
+      },
+      {
+        "when": "like-like_base",
+        "model": {
+          "type": "model",
+          "model": "block/like-like_base"
+        }
+      },
+      {
+        "when": "like-like_suck",
+        "model": {
+          "type": "model",
+          "model": "block/like-like_suck"
         }
       }
     ]
