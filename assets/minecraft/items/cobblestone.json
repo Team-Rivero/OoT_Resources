@@ -15,6 +15,13 @@
         }
       },
       {
+        "when": "owl_fly",
+        "model": {
+          "type": "model",
+          "model": "block/owl_fly"
+        }
+      },
+      {
         "when": "gold_skulltula_wall",
         "model": {
           "type": "model",
@@ -43,6 +50,20 @@
         }
       },
       {
+        "when": "deku_baba_lunge_1",
+        "model": {
+          "type": "model",
+          "model": "block/deku_baba_lunge_1"
+        }
+      },
+      {
+        "when": "deku_baba_lunge_2",
+        "model": {
+          "type": "model",
+          "model": "block/deku_baba_lunge_2"
+        }
+      },
+      {
         "when": "deku_tree_sprout",
         "model": {
           "type": "model",
@@ -68,6 +89,734 @@
         "model": {
           "type": "model",
           "model": "block/bunny_hood"
+        }
+      },
+      {
+        "when": "title_1",
+        "model": {
+          "type": "model",
+          "model": "block/title_1"
+        }
+      },
+      {
+        "when": "title_2",
+        "model": {
+          "type": "model",
+          "model": "block/title_2"
+        }
+      },
+      {
+        "when": "title_3",
+        "model": {
+          "type": "model",
+          "model": "block/title_3"
+        }
+      },
+      {
+        "when": "title_4",
+        "model": {
+          "type": "model",
+          "model": "block/title_4"
+        }
+      },
+      {
+        "when": "poe",
+        "model": {
+          "type": "model",
+          "model": "block/poe"
+        }
+      },
+      {
+        "when": "small_big_poe",
+        "model": {
+          "type": "model",
+          "model": "block/small_big_poe"
+        }
+      },
+      {
+        "when": "big_poe",
+        "model": {
+          "type": "model",
+          "model": "block/big_poe"
+        }
+      },
+      {
+        "when": "sharp",
+        "model": {
+          "type": "model",
+          "model": "block/sharp"
+        }
+      },
+      {
+        "when": "sharp_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/sharp_lantern"
+        }
+      },
+      {
+        "when": "amy",
+        "model": {
+          "type": "model",
+          "model": "block/amy"
+        }
+      },
+      {
+        "when": "beth",
+        "model": {
+          "type": "model",
+          "model": "block/beth"
+        }
+      },
+      {
+        "when": "joelle",
+        "model": {
+          "type": "model",
+          "model": "block/joelle"
+        }
+      },
+      {
+        "when": "meg",
+        "model": {
+          "type": "model",
+          "model": "block/meg"
+        }
+      },
+      {
+        "when": "flat",
+        "model": {
+          "type": "model",
+          "model": "block/flat"
+        }
+      },
+      {
+        "when": "flat_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/flat_lantern"
+        }
+      },
+      {
+        "when": "sun_active",
+        "model": {
+          "type": "model",
+          "model": "block/sun_active"
+        }
+      },
+      {
+        "when": "sun_inactive",
+        "model": {
+          "type": "model",
+          "model": "block/sun_inactive"
+        }
+      },
+      {
+        "when": "sun_block_active",
+        "model": {
+          "type": "model",
+          "model": "block/sun_block_active"
+        }
+      },
+      {
+        "when": "medigoron",
+        "model": {
+          "type": "model",
+          "model": "block/medigoron"
+        }
+      },
+      {
+        "when": "biggoron",
+        "model": {
+          "type": "model",
+          "model": "block/biggoron"
+        }
+      },
+      {
+        "when": "biggoron_eyes",
+        "model": {
+          "type": "model",
+          "model": "block/biggoron_eyes"
+        }
+      },
+      {
+        "when": "anubis",
+        "model": {
+          "type": "model",
+          "model": "block/anubis"
+        }
+      },
+      {
+        "when": "iron_knuckle_axe_1",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_axe_1"
+        }
+      },
+      {
+        "when": "iron_knuckle_axe_2",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_axe_2"
+        }
+      },
+      {
+        "when": "iron_knuckle_arm_1",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_arm_1"
+        }
+      },
+      {
+        "when": "iron_knuckle_arm_2",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_arm_2"
+        }
+      },
+      {
+        "when": "iron_knuckle_1",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_1"
+        }
+      },
+      {
+        "when": "iron_knuckle_2",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_2"
+        }
+      },
+      {
+        "when": "iron_knuckle_3",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_3"
+        }
+      },
+      {
+        "when": "iron_knuckle_nabooru",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_nabooru"
+        }
+      },
+      {
+        "when": "iron_knuckle_fast",
+        "model": {
+          "type": "model",
+          "model": "block/iron_knuckle_fast"
+        }
+      },
+      {
+        "when": "ice_block",
+        "model": {
+          "type": "model",
+          "model": "block/ice_block"
+        }
+      },
+      {
+        "when": "fisherman_cap",
+        "model": {
+          "type": "model",
+          "model": "block/fisherman_cap"
+        }
+      },
+      {
+        "when": "gossip_stone",
+        "model": {
+          "type": "model",
+          "model": "block/gossip_stone"
+        }
+      },
+      {
+        "when": "silver_rock",
+        "model": {
+          "type": "model",
+          "model": "block/silver_rock"
+        }
+      },
+      {
+        "when": "fan",
+        "model": {
+          "type": "model",
+          "model": "block/fan"
+        }
+      },
+      {
+        "when": "ganondorf_cape",
+        "model": {
+          "type": "model",
+          "model": "block/ganondorf_cape"
+        }
+      },
+      {
+        "when": "ganon_body_base",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_body_base"
+        }
+      },
+      {
+        "when": "ganon_tail",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_tail"
+        }
+      },
+      {
+        "when": "ganon_body_shake_right",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_body_shake_right"
+        }
+      },
+      {
+        "when": "ganon_body_shake_left",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_body_shake_left"
+        }
+      },
+      {
+        "when": "ganon_body_stun",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_body_stun"
+        }
+      },
+      {
+        "when": "ganon_body_final",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_body_final"
+        }
+      },
+      {
+        "when": "ganon_right_arm",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_right_arm"
+        }
+      },
+      {
+        "when": "ganon_left_arm_base",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_left_arm_base"
+        }
+      },
+      {
+        "when": "ganon_left_arm_final",
+        "model": {
+          "type": "model",
+          "model": "block/ganon_left_arm_final"
+        }
+      },
+      {
+        "when": "guru-guru",
+        "model": {
+          "type": "model",
+          "model": "block/guru-guru"
+        }
+      },
+      {
+        "when": "king_zora",
+        "model": {
+          "type": "model",
+          "model": "block/king_zora"
+        }
+      },
+      {
+        "when": "fire_wall",
+        "model": {
+          "type": "model",
+          "model": "block/fire_wall"
+        }
+      },
+      {
+        "when": "ice_blade",
+        "model": {
+          "type": "model",
+          "model": "block/ice_blade"
+        }
+      },
+      {
+        "when": "ice_blade_center",
+        "model": {
+          "type": "model",
+          "model": "block/ice_blade_center"
+        }
+      },
+      {
+        "when": "barinade_tentacle_red",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_tentacle_red"
+        }
+      },
+      {
+        "when": "barinade_tentacle_green",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_tentacle_green"
+        }
+      },
+      {
+        "when": "barinade_tentacle_blue",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_tentacle_blue"
+        }
+      },
+      {
+        "when": "big_octo_base",
+        "model": {
+          "type": "model",
+          "model": "block/big_octo_base"
+        }
+      },
+      {
+        "when": "big_octo_stun",
+        "model": {
+          "type": "model",
+          "model": "block/big_octo_stun"
+        }
+      },
+      {
+        "when": "spike",
+        "model": {
+          "type": "model",
+          "model": "block/spike"
+        }
+      },
+      {
+        "when": "spike_stun",
+        "model": {
+          "type": "model",
+          "model": "block/spike_stun"
+        }
+      },
+      {
+        "when": "shell_blade_opened",
+        "model": {
+          "type": "model",
+          "model": "block/shell_blade_opened"
+        }
+      },
+      {
+        "when": "shell_blade_closed",
+        "model": {
+          "type": "model",
+          "model": "block/shell_blade_closed"
+        }
+      },
+      {
+        "when": "morpha",
+        "model": {
+          "type": "model",
+          "model": "block/morpha"
+        }
+      },
+      {
+        "when": "well_fence",
+        "model": {
+          "type": "model",
+          "model": "block/well_fence"
+        }
+      },
+      {
+        "when": "dead_hand_hand_base",
+        "model": {
+          "type": "model",
+          "model": "block/dead_hand_hand_base"
+        }
+      },
+      {
+        "when": "dead_hand_hand_grab",
+        "model": {
+          "type": "model",
+          "model": "block/dead_hand_hand_grab"
+        }
+      },
+      {
+        "when": "dead_hand_body",
+        "model": {
+          "type": "model",
+          "model": "block/dead_hand_body"
+        }
+      },
+      {
+        "when": "dead_hand_head",
+        "model": {
+          "type": "model",
+          "model": "block/dead_hand_head"
+        }
+      },
+      {
+        "when": "dead_hand_dead",
+        "model": {
+          "type": "model",
+          "model": "block/dead_hand_dead"
+        }
+      },
+      {
+        "when": "bubble",
+        "model": {
+          "type": "model",
+          "model": "block/bubble"
+        }
+      },
+      {
+        "when": "scythe_blade",
+        "model": {
+          "type": "model",
+          "model": "block/scythe_blade"
+        }
+      },
+      {
+        "when": "scythe_center",
+        "model": {
+          "type": "model",
+          "model": "block/scythe_center"
+        }
+      },
+      {
+        "when": "guillotine",
+        "model": {
+          "type": "model",
+          "model": "block/guillotine"
+        }
+      },
+      {
+        "when": "bongo_hand_left_opened",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_hand_left_opened"
+        }
+      },
+      {
+        "when": "bongo_hand_left_closed",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_hand_left_closed"
+        }
+      },
+      {
+        "when": "bongo_hand_right_opened",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_hand_right_opened"
+        }
+      },
+      {
+        "when": "bongo_hand_right_closed",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_hand_right_closed"
+        }
+      },
+      {
+        "when": "bongo_body_opened",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_body_opened"
+        }
+      },
+      {
+        "when": "bongo_body_closed",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_body_closed"
+        }
+      },
+      {
+        "when": "bongo_tail",
+        "model": {
+          "type": "model",
+          "model": "block/bongo_tail"
+        }
+      },
+      {
+        "when": "gerudo_pot",
+        "model": {
+          "type": "model",
+          "model": "block/gerudo_pot"
+        }
+      },
+      {
+        "when": "dinolfos",
+        "model": {
+          "type": "model",
+          "model": "block/dinolfos"
+        }
+      },
+      {
+        "when": "eye_statue_active",
+        "model": {
+          "type": "model",
+          "model": "block/eye_statue_active"
+        }
+      },
+      {
+        "when": "eye_statue_closed",
+        "model": {
+          "type": "model",
+          "model": "block/eye_statue_closed"
+        }
+      },
+      {
+        "when": "white_wolfos",
+        "model": {
+          "type": "model",
+          "model": "block/white_wolfos"
+        }
+      },
+      {
+        "when": "stalfos",
+        "model": {
+          "type": "model",
+          "model": "block/stalfos"
+        }
+      },
+      {
+        "when": "leever",
+        "model": {
+          "type": "model",
+          "model": "block/leever"
+        }
+      },
+      {
+        "when": "leever_big",
+        "model": {
+          "type": "model",
+          "model": "block/leever_big"
+        }
+      },
+      {
+        "when": "guay",
+        "model": {
+          "type": "model",
+          "model": "block/guay"
+        }
+      },
+      {
+        "when": "guay_big",
+        "model": {
+          "type": "model",
+          "model": "block/guay_big"
+        }
+      },
+      {
+        "when": "broom",
+        "model": {
+          "type": "model",
+          "model": "block/broom"
+        }
+      },
+      {
+        "when": "business_scrub",
+        "model": {
+          "type": "model",
+          "model": "block/business_scrub"
+        }
+      },
+      {
+        "when": "cursed_child",
+        "model": {
+          "type": "model",
+          "model": "block/cursed_child"
+        }
+      },
+      {
+        "when": "cursed_adult",
+        "model": {
+          "type": "model",
+          "model": "block/cursed_adult"
+        }
+      },
+      {
+        "when": "skull_torch",
+        "model": {
+          "type": "model",
+          "model": "block/skull_torch"
+        }
+      },
+      {
+        "when": "bombchu",
+        "model": {
+          "type": "model",
+          "model": "block/bombchu"
+        }
+      },
+      {
+        "when": "spike_wall",
+        "model": {
+          "type": "model",
+          "model": "block/spike_wall"
+        }
+      },
+      {
+        "when": "skull_pot",
+        "model": {
+          "type": "model",
+          "model": "block/skull_pot"
+        }
+      },
+      {
+        "when": "obsidian_pillar",
+        "model": {
+          "type": "model",
+          "model": "block/obsidian_pillar"
+        }
+      },
+      {
+        "when": "ganondorf_barrier",
+        "model": {
+          "type": "model",
+          "model": "block/ganondorf_barrier"
+        }
+      },
+      {
+        "when": "mask_shop_sign",
+        "model": {
+          "type": "model",
+          "model": "block/mask_shop_sign"
+        }
+      },
+      {
+        "when": "mirror",
+        "model": {
+          "type": "model",
+          "model": "block/mirror"
+        }
+      },
+      {
+        "when": "tektite_red",
+        "model": {
+          "type": "model",
+          "model": "block/tektite_red"
+        }
+      },
+      {
+        "when": "tektite_blue",
+        "model": {
+          "type": "model",
+          "model": "block/tektite_blue"
+        }
+      },
+      {
+        "when": "octorok",
+        "model": {
+          "type": "model",
+          "model": "block/octorok"
+        }
+      },
+      {
+        "when": "baby_dodongo",
+        "model": {
+          "type": "model",
+          "model": "block/baby_dodongo"
         }
       }
     ]

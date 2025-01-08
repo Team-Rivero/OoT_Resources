@@ -1,0 +1,194 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/white_stained_glass_pane"
+    },
+    "cases": [
+      {
+        "when": "switch_1_off",
+        "model": {
+          "type": "model",
+          "model": "block/switch_1_off"
+        }
+      },
+      {
+        "when": "switch_1_on",
+        "model": {
+          "type": "model",
+          "model": "block/switch_1_on"
+        }
+      },
+      {
+        "when": "switch_2_off",
+        "model": {
+          "type": "model",
+          "model": "block/switch_2_off"
+        }
+      },
+      {
+        "when": "switch_2_on",
+        "model": {
+          "type": "model",
+          "model": "block/switch_2_on"
+        }
+      },
+      {
+        "when": "freezard_full",
+        "model": {
+          "type": "model",
+          "model": "block/freezard_full"
+        }
+      },
+      {
+        "when": "barinade_body_1",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_body_1"
+        }
+      },
+      {
+        "when": "barinade_body_2",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_body_2"
+        }
+      },
+      {
+        "when": "barinade_body_3",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_body_3"
+        }
+      },
+      {
+        "when": "barinade_jelly",
+        "model": {
+          "type": "model",
+          "model": "block/barinade_jelly"
+        }
+      },
+      {
+        "when": "morpha_tentacle",
+        "model": {
+          "type": "model",
+          "model": "block/morpha_tentacle"
+        }
+      },
+      {
+        "when": "kotake",
+        "model": {
+          "type": "model",
+          "model": "block/kotake"
+        }
+      },
+      {
+        "when": "koume",
+        "model": {
+          "type": "model",
+          "model": "block/koume"
+        }
+      },
+      {
+        "when": "twinrova_base",
+        "model": {
+          "type": "model",
+          "model": "block/twinrova_base"
+        }
+      },
+      {
+        "when": "twinrova_stun",
+        "model": {
+          "type": "model",
+          "model": "block/twinrova_stun"
+        }
+      },
+      {
+        "when": "dark_link_base",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_base"
+        }
+      },
+      {
+        "when": "dark_link_base_reflection",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_base_reflection"
+        }
+      },
+      {
+        "when": "dark_link_sword",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_sword"
+        }
+      },
+      {
+        "when": "dark_link_sword_reflection",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_sword_reflection"
+        }
+      },
+      {
+        "when": "dark_link_shield",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_shield"
+        }
+      },
+      {
+        "when": "dark_link_shield_reflection",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_shield_reflection"
+        }
+      },
+      {
+        "when": "dark_link_base_taunt",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_base_taunt"
+        }
+      },
+      {
+        "when": "icicle_ceiling",
+        "model": {
+          "type": "model",
+          "model": "block/icicle_ceiling"
+        }
+      },
+      {
+        "when": "icicle_floor",
+        "model": {
+          "type": "model",
+          "model": "block/icicle_floor"
+        }
+      },
+      {
+        "when": "zelda_crystal",
+        "model": {
+          "type": "model",
+          "model": "block/zelda_crystal"
+        }
+      },
+      {
+        "when": "biri",
+        "model": {
+          "type": "model",
+          "model": "block/biri"
+        }
+      },
+      {
+        "when": "bari",
+        "model": {
+          "type": "model",
+          "model": "block/bari"
+        }
+      }
+    ]
+  }
+}

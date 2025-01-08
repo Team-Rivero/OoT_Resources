@@ -440,6 +440,13 @@
           "type": "model",
           "model": "item/windmill"
         }
+      },
+      {
+        "when": "shadow_boat",
+        "model": {
+          "type": "model",
+          "model": "item/shadow_boat"
+        }
       }
     ]
   }
