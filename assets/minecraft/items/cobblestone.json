@@ -435,6 +435,13 @@
         }
       },
       {
+        "when": "king_zora_final",
+        "model": {
+          "type": "model",
+          "model": "block/king_zora_final"
+        }
+      },
+      {
         "when": "fire_wall",
         "model": {
           "type": "model",
@@ -995,6 +1002,13 @@
         }
       },
       {
+        "when": "floormaster_tiny",
+        "model": {
+          "type": "model",
+          "model": "block/floormaster_tiny"
+        }
+      },
+      {
         "when": "floormaster_shadow",
         "model": {
           "type": "model",
@@ -1041,6 +1055,76 @@
         "model": {
           "type": "model",
           "model": "block/flying_pot"
+        }
+      },
+      {
+        "when": "moblin",
+        "model": {
+          "type": "model",
+          "model": "block/moblin"
+        }
+      },
+      {
+        "when": "moblin_club",
+        "model": {
+          "type": "model",
+          "model": "block/moblin_club"
+        }
+      },
+      {
+        "when": "green_poe_block_1",
+        "model": {
+          "type": "model",
+          "model": "block/green_poe_block_1"
+        }
+      },
+      {
+        "when": "green_poe_block_2",
+        "model": {
+          "type": "model",
+          "model": "block/green_poe_block_2"
+        }
+      },
+      {
+        "when": "green_poe_block_3",
+        "model": {
+          "type": "model",
+          "model": "block/green_poe_block_3"
+        }
+      },
+      {
+        "when": "green_poe_block_4",
+        "model": {
+          "type": "model",
+          "model": "block/green_poe_block_4"
+        }
+      },
+      {
+        "when": "blue_poe_block",
+        "model": {
+          "type": "model",
+          "model": "block/blue_poe_block"
+        }
+      },
+      {
+        "when": "beamos",
+        "model": {
+          "type": "model",
+          "model": "block/beamos"
+        }
+      },
+      {
+        "when": "rolling_rock",
+        "model": {
+          "type": "model",
+          "model": "block/rolling_rock"
+        }
+      },
+      {
+        "when": "boss_door",
+        "model": {
+          "type": "model",
+          "model": "block/boss_door"
         }
       }
     ]

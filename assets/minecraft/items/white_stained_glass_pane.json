@@ -4,7 +4,7 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "block/white_stained_glass_pane"
+      "model": "item/white_stained_glass_pane"
     },
     "cases": [
       {

@@ -447,6 +447,13 @@
           "type": "model",
           "model": "item/shadow_boat"
         }
+      },
+      {
+        "when": "both_hands",
+        "model": {
+          "type": "model",
+          "model": "item/both_hands"
+        }
       }
     ]
   }

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "cases": [
+      {
+        "when": "lens_of_truth_head",
+        "model": {
+          "type": "model",
+          "model": "item/lens_of_truth_head"
+        }
+      }
+    ]
+  }
+}

@@ -1,9 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/light_blue_stained_glass_pane"
-    },
-    "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "block/light_blue_stained_glass_pane"}
-    ]
-}
