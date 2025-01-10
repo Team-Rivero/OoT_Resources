@@ -1126,6 +1126,13 @@
           "type": "model",
           "model": "block/boss_door"
         }
+      },
+      {
+        "when": "phantom_ganon_painting",
+        "model": {
+          "type": "model",
+          "model": "block/phantom_ganon_painting"
+        }
       }
     ]
   }
