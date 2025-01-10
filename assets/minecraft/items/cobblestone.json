@@ -834,13 +834,6 @@
         }
       },
       {
-        "when": "baby_dodongo",
-        "model": {
-          "type": "model",
-          "model": "block/baby_dodongo"
-        }
-      },
-      {
         "when": "gohma_larva",
         "model": {
           "type": "model",
@@ -890,31 +883,10 @@
         }
       },
       {
-        "when": "dodongo_head_opened",
+        "when": "baby_dodongo",
         "model": {
           "type": "model",
-          "model": "block/dodongo_head_opened"
-        }
-      },
-      {
-        "when": "dodongo_head_closed",
-        "model": {
-          "type": "model",
-          "model": "block/dodongo_head_closed"
-        }
-      },
-      {
-        "when": "dodongo_body",
-        "model": {
-          "type": "model",
-          "model": "block/dodongo_body"
-        }
-      },
-      {
-        "when": "king_dodongo_roll",
-        "model": {
-          "type": "model",
-          "model": "block/king_dodongo_roll"
+          "model": "block/baby_dodongo"
         }
       },
       {
@@ -922,6 +894,34 @@
         "model": {
           "type": "model",
           "model": "block/dodongo"
+        }
+      },
+      {
+        "when": "king_dodongo_head_opened",
+        "model": {
+          "type": "model",
+          "model": "block/king_dodongo_head_opened"
+        }
+      },
+      {
+        "when": "king_dodongo_head_closed",
+        "model": {
+          "type": "model",
+          "model": "block/king_dodongo_head_closed"
+        }
+      },
+      {
+        "when": "king_dodongo_body",
+        "model": {
+          "type": "model",
+          "model": "block/king_dodongo_body"
+        }
+      },
+      {
+        "when": "king_dodongo_roll",
+        "model": {
+          "type": "model",
+          "model": "block/king_dodongo_roll"
         }
       },
       {
