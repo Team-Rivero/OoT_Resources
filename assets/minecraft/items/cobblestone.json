@@ -71,10 +71,17 @@
         }
       },
       {
-        "when": "deku_scrub_1",
+        "when": "deku_scrub",
         "model": {
           "type": "model",
-          "model": "block/deku_scrub_1"
+          "model": "block/deku_scrub"
+        }
+      },
+      {
+        "when": "mad_scrub",
+        "model": {
+          "type": "model",
+          "model": "block/mad_scrub"
         }
       },
       {
