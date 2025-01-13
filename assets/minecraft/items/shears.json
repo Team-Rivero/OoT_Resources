@@ -169,10 +169,10 @@
         }
       },
       {
-        "when": "phantom_ganon",
+        "when": "phantom_ganon_1",
         "model": {
           "type": "model",
-          "model": "item/phantom_ganon"
+          "model": "item/phantom_ganon_1"
         }
       },
       {

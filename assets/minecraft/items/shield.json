@@ -7,8 +7,11 @@
       "property": "custom_model_data",
   
       "fallback": {
-        "type": "model",
-        "model": "item/shield"
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": {
+          "type": "minecraft:shield"
+        }
       },
       
       "cases": [
@@ -55,8 +58,11 @@
       "property": "custom_model_data",
   
       "fallback": {
-        "type": "model",
-        "model": "item/shield"
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": {
+          "type": "minecraft:shield"
+        }
       },
       
       "cases": [
