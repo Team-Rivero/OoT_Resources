@@ -1140,6 +1140,13 @@
           "type": "model",
           "model": "block/phantom_ganon_painting"
         }
+      },
+      {
+        "when": "great_fairy",
+        "model": {
+          "type": "model",
+          "model": "block/great_fairy"
+        }
       }
     ]
   }
