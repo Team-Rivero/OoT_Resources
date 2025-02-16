@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/iron_axe"
+        "layer0": "item/megaton_hammer"
     },
     "display": {
         "ground": {

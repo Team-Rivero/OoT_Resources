@@ -127,13 +127,6 @@
         }
       },
       {
-        "when": "deku_nut",
-        "model": {
-          "type": "model",
-          "model": "item/deku_nut"
-        }
-      },
-      {
         "when": "blue_fire",
         "model": {
           "type": "model",

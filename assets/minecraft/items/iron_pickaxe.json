@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_pickaxe"
+    },
+    "cases": [
+      {
+        "when": "megaton_hammer",
+        "model": {
+          "type": "model",
+          "model": "item/megaton_hammer"
+        }
+      }
+    ]
+  }
+}
