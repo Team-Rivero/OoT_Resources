@@ -22,6 +22,20 @@
         }
       },
       {
+        "when": "arrow_empty",
+        "model": {
+          "type": "model",
+          "model": "item/arrow_empty"
+        }
+      },
+      {
+        "when": "bow",
+        "model": {
+          "type": "model",
+          "model": "item/bow"
+        }
+      },
+      {
         "when": "cucco",
         "model": {
           "type": "model",
@@ -124,6 +138,13 @@
         "model": {
           "type": "model",
           "model": "item/deku_seeds"
+        }
+      },
+      {
+        "when": "deku_seeds_empty",
+        "model": {
+          "type": "model",
+          "model": "item/deku_seeds_empty"
         }
       },
       {

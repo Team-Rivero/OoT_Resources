@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/arrow"
+    },
+    "cases": [
+      {
+        "when": "fire_arrow",
+        "model": {
+          "type": "model",
+          "model": "item/fire_arrow"
+        }
+      },
+      {
+        "when": "ice_arrow",
+        "model": {
+          "type": "model",
+          "model": "item/ice_arrow"
+        }
+      },
+      {
+        "when": "light_arrow",
+        "model": {
+          "type": "model",
+          "model": "item/light_arrow"
+        }
+      }
+    ]
+  }
+}
