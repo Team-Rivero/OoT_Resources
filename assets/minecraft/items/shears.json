@@ -57,6 +57,13 @@
         }
       },
       {
+        "when": "magic_upgrade",
+        "model": {
+          "type": "model",
+          "model": "item/magic_upgrade"
+        }
+      },
+      {
         "when": "magic_jar",
         "model": {
           "type": "model",
