@@ -15,6 +15,13 @@
         }
       },
       {
+        "when": "bow",
+        "model": {
+          "type": "model",
+          "model": "item/bow"
+        }
+      },
+      {
         "when": "bottled_fairy",
         "model": {
           "type": "model",

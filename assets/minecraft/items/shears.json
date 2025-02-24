@@ -29,13 +29,6 @@
         }
       },
       {
-        "when": "bow",
-        "model": {
-          "type": "model",
-          "model": "item/bow"
-        }
-      },
-      {
         "when": "cucco",
         "model": {
           "type": "model",
