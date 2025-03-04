@@ -22,6 +22,20 @@
         }
       },
       {
+        "when": "deku_nut_upgrade",
+        "model": {
+          "type": "model",
+          "model": "item/deku_nut_upgrade"
+        }
+      },
+      {
+        "when": "deku_stick_upgrade",
+        "model": {
+          "type": "model",
+          "model": "item/deku_stick_upgrade"
+        }
+      },
+      {
         "when": "arrow_empty",
         "model": {
           "type": "model",
@@ -471,6 +485,13 @@
       },
       {
         "when": "both_hands",
+        "model": {
+          "type": "model",
+          "model": "item/both_hands"
+        }
+      },
+      {
+        "when": "ghost_item",
         "model": {
           "type": "model",
           "model": "item/both_hands"

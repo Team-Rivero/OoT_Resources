@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/deku_nut"
         }
+      },
+      {
+        "when": "bomb",
+        "model": {
+          "type": "model",
+          "model": "item/bomb"
+        }
       }
     ]
   }

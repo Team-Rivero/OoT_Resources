@@ -127,13 +127,6 @@
         }
       },
       {
-        "when": "deku_stick_lit",
-        "model": {
-          "type": "model",
-          "model": "item/deku_stick_lit"
-        }
-      },
-      {
         "when": "blue_fire",
         "model": {
           "type": "model",
