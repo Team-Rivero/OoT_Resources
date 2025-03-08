@@ -8,13 +8,6 @@
     },
     "cases": [
       {
-        "when": "bombchu",
-        "model": {
-          "type": "model",
-          "model": "item/bombchu"
-        }
-      },
-      {
         "when": "bow",
         "model": {
           "type": "model",

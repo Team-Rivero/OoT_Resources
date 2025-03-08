@@ -20,6 +20,13 @@
           "type": "model",
           "model": "item/bomb"
         }
+      },
+      {
+        "when": "bombchu",
+        "model": {
+          "type": "model",
+          "model": "item/bombchu"
+        }
       }
     ]
   }
