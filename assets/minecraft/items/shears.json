@@ -22,6 +22,20 @@
         }
       },
       {
+        "when": "ocarina_saria",
+        "model": {
+          "type": "model",
+          "model": "item/ocarina_saria"
+        }
+      },
+      {
+        "when": "ocarina_zelda",
+        "model": {
+          "type": "model",
+          "model": "item/ocarina_zelda"
+        }
+      },
+      {
         "when": "deku_nut_upgrade",
         "model": {
           "type": "model",

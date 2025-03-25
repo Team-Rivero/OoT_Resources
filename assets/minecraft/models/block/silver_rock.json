@@ -22,8 +22,8 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, -6, 0],
-			"scale": [1.6, 1.6, 1.6]
+			"translation": [0, -16, 0],
+			"scale": [2.1, 2.1, 2.1]
 		}
 	}
 }
