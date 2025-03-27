@@ -383,10 +383,10 @@
       }
     ]
   },
-  "underground_ganon_castle" : {
+  "ganon_castle" : {
     "sounds": [
       {
-	 "name": "custommusic/underground_ganon_castle",
+	 "name": "custommusic/ganon_castle",
          "stream": "true"
       }
     ]
