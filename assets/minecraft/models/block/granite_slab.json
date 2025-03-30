@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"1": "block/smooth_stone_slab_side",
+		"top": "block/granite",
+		"particle": "block/smooth_stone_slab_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -15.5, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}
