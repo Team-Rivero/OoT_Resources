@@ -141,6 +141,13 @@
         }
       },
       {
+        "when": "half_damage_heart",
+        "model": {
+          "type": "model",
+          "model": "item/half_damage_heart"
+        }
+      },
+      {
         "when": "bug",
         "model": {
           "type": "model",

@@ -1,9 +1,17 @@
 {
+  "effect.duration.infinite": "",
   "effect.minecraft.jump_boost": "",
   "effect.minecraft.resistance": "",
-  "effect.minecraft.poison": "Half Damage",
-  "effect.minecraft.luck": "Shard of Agony",
+  "effect.minecraft.poison": "",
+  "effect.minecraft.luck": "",
   "effect.minecraft.night_vision": "",
   "effect.minecraft.saturation": "",
-  "enchantment.level.2": ""
+  "effect.minecraft.hunger": "",
+  "enchantment.level.2": "",
+  "merchant.level.1": "",
+  "merchant.level.2": "",
+  "merchant.level.3": "",
+  "merchant.level.4": "",
+  "merchant.level.5": "",
+  "merchant.title": "%s %s"
 }
