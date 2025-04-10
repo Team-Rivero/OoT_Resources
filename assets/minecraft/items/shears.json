@@ -36,6 +36,20 @@
         }
       },
       {
+        "when": "hookshot",
+        "model": {
+          "type": "model",
+          "model": "item/hookshot"
+        }
+      },
+      {
+        "when": "longshot",
+        "model": {
+          "type": "model",
+          "model": "item/longshot"
+        }
+      },
+      {
         "when": "deku_nut_upgrade",
         "model": {
           "type": "model",
