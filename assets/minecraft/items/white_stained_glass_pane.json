@@ -188,6 +188,13 @@
           "type": "model",
           "model": "block/bari"
         }
+      },
+      {
+        "when": "navi",
+        "model": {
+          "type": "model",
+          "model": "block/navi"
+        }
       }
     ]
   }

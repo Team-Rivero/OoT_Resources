@@ -1,49 +1,9 @@
 {
-  "lost_woods": {
-    "sounds": [
-      {
-	 "name": "custommusic/lost_woods",
-         "stream": "true"
-      }
-    ]
-  },
-  "deku_tree": {
-    "sounds": [
-      {
-	 "name": "custommusic/deku_tree",
-         "stream": "true"
-      }
-    ]
-  },
-  "kokiri_forest" : {
-    "sounds": [
-      {
-	 "name": "custommusic/kokiri_forest",
-         "stream": "true"
-      }
-    ]
-  },
-  "hyrule_field_morning" : {
-    "sounds": [
-      {
-	 "name": "custommusic/hyrule_field_morning",
-         "stream": "true"
-      }
-    ]
-  },
-  "hyrule_field" : {
-    "sounds": [
-      {
-	 "name": "custommusic/hyrule_field",
-         "stream": "true"
-      }
-    ]
-  },
   "king_zora" : {
     "sounds": [
       {
 	 "name": "soundeffects/king_zora",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -51,7 +11,7 @@
     "sounds": [
       {
 	 "name": "soundeffects/bongo_murmer",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -59,7 +19,7 @@
     "sounds": [
       {
 	 "name": "soundeffects/gameion_scarecrow",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -67,7 +27,7 @@
     "sounds": [
       {
 	 "name": "soundeffects/blume_scarecrow",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -75,7 +35,7 @@
     "sounds": [
       {
 	 "name": "soundeffects/neex_scarecrow",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -83,7 +43,47 @@
     "sounds": [
       {
 	 "name": "soundeffects/chest_jingle",
-         "stream": "true"
+         "stream": true
+      }
+    ]
+  },
+  "lost_woods": {
+    "sounds": [
+      {
+	 "name": "custommusic/lost_woods",
+         "stream": true
+      }
+    ]
+  },
+  "deku_tree": {
+    "sounds": [
+      {
+	 "name": "custommusic/deku_tree",
+         "stream": true
+      }
+    ]
+  },
+  "kokiri_forest" : {
+    "sounds": [
+      {
+	 "name": "custommusic/kokiri_forest",
+         "stream": true
+      }
+    ]
+  },
+  "hyrule_field_morning" : {
+    "sounds": [
+      {
+	 "name": "custommusic/hyrule_field_morning",
+         "stream": true
+      }
+    ]
+  },
+  "hyrule_field" : {
+    "sounds": [
+      {
+	 "name": "custommusic/hyrule_field",
+         "stream": true
       }
     ]
   },
@@ -91,7 +91,7 @@
     "sounds": [
       {
 	 "name": "custommusic/castle_town",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -99,7 +99,7 @@
     "sounds": [
       {
 	 "name": "custommusic/castle_courtyard",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -107,7 +107,7 @@
     "sounds": [
       {
 	 "name": "custommusic/princess_zelda",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -115,7 +115,7 @@
     "sounds": [
       {
 	 "name": "custommusic/inside_house",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -123,7 +123,7 @@
     "sounds": [
       {
 	 "name": "custommusic/lon_lon_ranch",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -131,7 +131,7 @@
     "sounds": [
       {
 	 "name": "custommusic/kakariko_village",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -139,7 +139,7 @@
     "sounds": [
       {
 	 "name": "custommusic/underground",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -147,7 +147,7 @@
     "sounds": [
       {
 	 "name": "custommusic/goron_city",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -155,7 +155,7 @@
     "sounds": [
       {
 	 "name": "custommusic/zora_domain",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -163,7 +163,7 @@
     "sounds": [
       {
 	 "name": "custommusic/dodongo_cavern",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -171,7 +171,7 @@
     "sounds": [
       {
 	 "name": "custommusic/chamber_of_sages",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -179,7 +179,7 @@
     "sounds": [
       {
 	 "name": "custommusic/fairy_fountain",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -187,7 +187,7 @@
     "sounds": [
       {
 	 "name": "custommusic/shop",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -195,7 +195,7 @@
     "sounds": [
       {
 	 "name": "custommusic/song_of_storms",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -203,7 +203,7 @@
     "sounds": [
       {
 	 "name": "custommusic/temple_of_time",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -211,7 +211,7 @@
     "sounds": [
       {
 	 "name": "custommusic/jabu_jabu",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -219,7 +219,7 @@
     "sounds": [
       {
 	 "name": "custommusic/horse_race",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -227,7 +227,7 @@
     "sounds": [
       {
 	 "name": "custommusic/sheik",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -235,7 +235,7 @@
     "sounds": [
       {
 	 "name": "custommusic/forest_temple",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -243,7 +243,7 @@
     "sounds": [
       {
 	 "name": "custommusic/boss_theme",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -251,7 +251,7 @@
     "sounds": [
       {
 	 "name": "custommusic/mini_boss_theme",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -259,7 +259,7 @@
     "sounds": [
       {
 	 "name": "custommusic/fire_temple",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -267,7 +267,7 @@
     "sounds": [
       {
 	 "name": "custommusic/fire_boss_theme",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -275,7 +275,7 @@
     "sounds": [
       {
 	 "name": "custommusic/ice_cavern",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -283,7 +283,7 @@
     "sounds": [
       {
 	 "name": "custommusic/navi_fly",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -291,7 +291,7 @@
     "sounds": [
       {
 	 "name": "custommusic/kotake_koume",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -299,7 +299,7 @@
     "sounds": [
       {
 	 "name": "custommusic/intro",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -307,7 +307,7 @@
     "sounds": [
       {
 	 "name": "custommusic/spirit_temple",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -315,7 +315,7 @@
     "sounds": [
       {
 	 "name": "custommusic/gerudo_valley",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -323,7 +323,7 @@
     "sounds": [
       {
 	 "name": "custommusic/owl_theme",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -331,7 +331,7 @@
     "sounds": [
       {
 	 "name": "custommusic/water_temple",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -339,7 +339,7 @@
     "sounds": [
       {
 	 "name": "custommusic/ganon_tower",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -347,7 +347,7 @@
     "sounds": [
       {
 	 "name": "custommusic/shadow_temple",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -355,7 +355,7 @@
     "sounds": [
       {
 	 "name": "custommusic/potion_shop",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -363,7 +363,7 @@
     "sounds": [
       {
 	 "name": "custommusic/shooting_gallery",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -371,7 +371,7 @@
     "sounds": [
       {
 	 "name": "custommusic/minigame",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -379,7 +379,7 @@
     "sounds": [
       {
 	 "name": "custommusic/ganondorf",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -387,7 +387,7 @@
     "sounds": [
       {
 	 "name": "custommusic/ganon_castle",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -395,7 +395,7 @@
     "sounds": [
       {
 	 "name": "custommusic/ganondorf_boss",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -403,7 +403,7 @@
     "sounds": [
       {
 	 "name": "custommusic/escape_ganon_castle",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -411,7 +411,7 @@
     "sounds": [
       {
 	 "name": "custommusic/final_battle",
-         "stream": "true"
+         "stream": true
       }
     ]
   },
@@ -419,7 +419,7 @@
     "sounds": [
       {
 	 "name": "custommusic/staff_role",
-         "stream": "true"
+         "stream": true
       }
     ]
   }
