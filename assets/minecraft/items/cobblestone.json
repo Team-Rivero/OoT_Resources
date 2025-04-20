@@ -1114,10 +1114,24 @@
         }
       },
       {
-        "when": "beamos",
+        "when": "beamos_head",
         "model": {
           "type": "model",
-          "model": "block/beamos"
+          "model": "block/beamos_head"
+        }
+      },
+      {
+        "when": "beamos_head_closed",
+        "model": {
+          "type": "model",
+          "model": "block/beamos_head_closed"
+        }
+      },
+      {
+        "when": "beamos_body",
+        "model": {
+          "type": "model",
+          "model": "block/beamos_body"
         }
       },
       {
