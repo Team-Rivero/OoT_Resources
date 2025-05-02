@@ -85,6 +85,20 @@
         }
       },
       {
+        "when": "stage_scrub",
+        "model": {
+          "type": "model",
+          "model": "block/stage_scrub"
+        }
+      },
+      {
+        "when": "stage_scrub_leader",
+        "model": {
+          "type": "model",
+          "model": "block/stage_scrub_leader"
+        }
+      },
+      {
         "when": "wolfos",
         "model": {
           "type": "model",
@@ -946,10 +960,31 @@
         }
       },
       {
-        "when": "flare_dancer",
+        "when": "flare_dancer_red",
         "model": {
           "type": "model",
-          "model": "block/flare_dancer"
+          "model": "block/flare_dancer_red"
+        }
+      },
+      {
+        "when": "flare_dancer_blue",
+        "model": {
+          "type": "model",
+          "model": "block/flare_dancer_blue"
+        }
+      },
+      {
+        "when": "flare_dancer_green",
+        "model": {
+          "type": "model",
+          "model": "block/flare_dancer_green"
+        }
+      },
+      {
+        "when": "flare_dancer_head",
+        "model": {
+          "type": "model",
+          "model": "block/flare_dancer_head"
         }
       },
       {
