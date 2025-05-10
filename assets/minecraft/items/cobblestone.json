@@ -1107,10 +1107,17 @@
         }
       },
       {
-        "when": "moblin_club",
+        "when": "moblin_club_1",
         "model": {
           "type": "model",
-          "model": "block/moblin_club"
+          "model": "block/moblin_club_1"
+        }
+      },
+      {
+        "when": "moblin_club_2",
+        "model": {
+          "type": "model",
+          "model": "block/moblin_club_2"
         }
       },
       {
@@ -1195,6 +1202,55 @@
         "model": {
           "type": "model",
           "model": "block/great_fairy"
+        }
+      },
+      {
+        "when": "medallion_light",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_light"
+        }
+      },
+      {
+        "when": "medallion_forest",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_forest"
+        }
+      },
+      {
+        "when": "medallion_fire",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_fire"
+        }
+      },
+      {
+        "when": "medallion_water",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_water"
+        }
+      },
+      {
+        "when": "medallion_shadow",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_shadow"
+        }
+      },
+      {
+        "when": "medallion_spirit",
+        "model": {
+          "type": "model",
+          "model": "block/medallion_spirit"
+        }
+      },
+      {
+        "when": "triforce_1",
+        "model": {
+          "type": "model",
+          "model": "block/triforce_1"
         }
       }
     ]
