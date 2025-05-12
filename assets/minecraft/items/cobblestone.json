@@ -155,17 +155,59 @@
         }
       },
       {
-        "when": "small_big_poe",
+        "when": "poe_arm",
         "model": {
           "type": "model",
-          "model": "block/small_big_poe"
+          "model": "block/poe_arm"
         }
       },
       {
-        "when": "big_poe",
+        "when": "poe_arm_lantern",
         "model": {
           "type": "model",
-          "model": "block/big_poe"
+          "model": "block/poe_arm_lantern"
+        }
+      },
+      {
+        "when": "poe_arm_invisible",
+        "model": {
+          "type": "model",
+          "model": "block/poe_arm_invisible"
+        }
+      },
+      {
+        "when": "poe_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/poe_lantern"
+        }
+      },
+      {
+        "when": "flat",
+        "model": {
+          "type": "model",
+          "model": "block/flat"
+        }
+      },
+      {
+        "when": "flat_arm_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/flat_arm_lantern"
+        }
+      },
+      {
+        "when": "flat_arm_invisible",
+        "model": {
+          "type": "model",
+          "model": "block/flat_arm_invisible"
+        }
+      },
+      {
+        "when": "flat_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/flat_lantern"
         }
       },
       {
@@ -176,10 +218,52 @@
         }
       },
       {
+        "when": "composer_arm",
+        "model": {
+          "type": "model",
+          "model": "block/composer_arm"
+        }
+      },
+      {
+        "when": "sharp_arm_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/sharp_arm_lantern"
+        }
+      },
+      {
+        "when": "sharp_arm_invisible",
+        "model": {
+          "type": "model",
+          "model": "block/sharp_arm_invisible"
+        }
+      },
+      {
         "when": "sharp_lantern",
         "model": {
           "type": "model",
           "model": "block/sharp_lantern"
+        }
+      },
+      {
+        "when": "angry_poe",
+        "model": {
+          "type": "model",
+          "model": "block/angry_poe"
+        }
+      },
+      {
+        "when": "angry_poe_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/angry_poe_lantern"
+        }
+      },
+      {
+        "when": "big_poe",
+        "model": {
+          "type": "model",
+          "model": "block/big_poe"
         }
       },
       {
@@ -208,20 +292,6 @@
         "model": {
           "type": "model",
           "model": "block/meg"
-        }
-      },
-      {
-        "when": "flat",
-        "model": {
-          "type": "model",
-          "model": "block/flat"
-        }
-      },
-      {
-        "when": "flat_lantern",
-        "model": {
-          "type": "model",
-          "model": "block/flat_lantern"
         }
       },
       {
