@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/blue_stained_glass",
+		"1": "block/lime_stained_glass",
 		"2": "block/white_concrete",
 		"particle": "block/blue_ice"
 	},
@@ -35,8 +35,7 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [30, 0, 0],
-			"translation": [-2, -4.25, 6.75],
+			"translation": [-2, 1, 6.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {

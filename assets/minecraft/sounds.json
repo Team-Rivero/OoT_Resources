@@ -47,6 +47,14 @@
       }
     ]
   },
+  "wolf_howl" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/wolf_howl",
+         "stream": true
+      }
+    ]
+  },
   "lost_woods": {
     "sounds": [
       {

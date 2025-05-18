@@ -253,10 +253,10 @@
         }
       },
       {
-        "when": "angry_poe_lantern",
+        "when": "big_poe_lantern",
         "model": {
           "type": "model",
-          "model": "block/angry_poe_lantern"
+          "model": "block/big_poe_lantern"
         }
       },
       {
@@ -267,10 +267,17 @@
         }
       },
       {
-        "when": "amy",
+        "when": "joelle",
         "model": {
           "type": "model",
-          "model": "block/amy"
+          "model": "block/joelle"
+        }
+      },
+      {
+        "when": "joelle_invisible",
+        "model": {
+          "type": "model",
+          "model": "block/joelle_invisible"
         }
       },
       {
@@ -281,10 +288,24 @@
         }
       },
       {
-        "when": "joelle",
+        "when": "beth_invisible",
         "model": {
           "type": "model",
-          "model": "block/joelle"
+          "model": "block/beth_invisible"
+        }
+      },
+      {
+        "when": "amy",
+        "model": {
+          "type": "model",
+          "model": "block/amy"
+        }
+      },
+      {
+        "when": "amy_invisible",
+        "model": {
+          "type": "model",
+          "model": "block/amy_invisible"
         }
       },
       {

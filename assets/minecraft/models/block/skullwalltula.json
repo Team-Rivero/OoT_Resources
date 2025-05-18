@@ -2236,12 +2236,7 @@
 		}
 	],
 	"gui_light": "front",
-	"display": {
-		"head": {
-			"translation": [0, -14, 0],
-			"scale": [2, 2, 2]
-		}
-	},
+	"display": {},
 	"groups": [
 		{
 			"name": "Entire Thing",
