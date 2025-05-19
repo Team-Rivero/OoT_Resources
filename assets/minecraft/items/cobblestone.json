@@ -1107,6 +1107,13 @@
         }
       },
       {
+        "when": "skullwalltula_attack",
+        "model": {
+          "type": "model",
+          "model": "block/skullwalltula_attack"
+        }
+      },
+      {
         "when": "peahat_larva",
         "model": {
           "type": "model",

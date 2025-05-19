@@ -209,6 +209,13 @@
           "type": "model",
           "model": "block/arms_29"
         }
+      },
+      {
+        "when": "arms_30",
+        "model": {
+          "type": "model",
+          "model": "block/arms_30"
+        }
       }
     ]
   }
