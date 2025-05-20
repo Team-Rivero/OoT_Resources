@@ -803,8 +803,7 @@
 			"translation": [9, -9, 4]
 		},
 		"firstperson_lefthand": {
-			"translation": [9, -9, 4],
-			"scale": [-1, 1, 1]
+			"translation": [9, -9, 4]
 		},
 		"ground": {
 			"translation": [0, 2.5, 0],

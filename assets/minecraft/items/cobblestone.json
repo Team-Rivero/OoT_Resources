@@ -813,6 +813,13 @@
         }
       },
       {
+        "when": "stalfos_shield",
+        "model": {
+          "type": "model",
+          "model": "block/stalfos_shield"
+        }
+      },
+      {
         "when": "leever",
         "model": {
           "type": "model",
