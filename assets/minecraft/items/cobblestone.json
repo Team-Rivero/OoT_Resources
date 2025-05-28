@@ -1058,6 +1058,13 @@
         }
       },
       {
+        "when": "stinger_underground",
+        "model": {
+          "type": "model",
+          "model": "block/stinger_underground"
+        }
+      },
+      {
         "when": "flare_dancer_red",
         "model": {
           "type": "model",
