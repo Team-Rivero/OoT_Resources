@@ -1009,6 +1009,13 @@
         }
       },
       {
+        "when": "baby_dodongo_dead",
+        "model": {
+          "type": "model",
+          "model": "block/baby_dodongo_dead"
+        }
+      },
+      {
         "when": "dodongo",
         "model": {
           "type": "model",
