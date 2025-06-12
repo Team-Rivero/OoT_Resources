@@ -995,6 +995,13 @@
         }
       },
       {
+        "when": "armos_active",
+        "model": {
+          "type": "model",
+          "model": "block/armos_active"
+        }
+      },
+      {
         "when": "blade_trap",
         "model": {
           "type": "model",

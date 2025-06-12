@@ -43,6 +43,20 @@
         }
       },
       {
+        "when": "freezard_most",
+        "model": {
+          "type": "model",
+          "model": "block/freezard_most"
+        }
+      },
+      {
+        "when": "freezard_half",
+        "model": {
+          "type": "model",
+          "model": "block/freezard_half"
+        }
+      },
+      {
         "when": "barinade_body_1",
         "model": {
           "type": "model",
