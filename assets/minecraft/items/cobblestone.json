@@ -50,17 +50,31 @@
         }
       },
       {
-        "when": "deku_baba_lunge_1",
+        "when": "lunging_deku_baba_1",
         "model": {
           "type": "model",
-          "model": "block/deku_baba_lunge_1"
+          "model": "block/lunging_deku_baba_1"
         }
       },
       {
-        "when": "deku_baba_lunge_2",
+        "when": "lunging_deku_baba_2",
         "model": {
           "type": "model",
-          "model": "block/deku_baba_lunge_2"
+          "model": "block/lunging_deku_baba_2"
+        }
+      },
+      {
+        "when": "lunging_deku_baba_3",
+        "model": {
+          "type": "model",
+          "model": "block/lunging_deku_baba_3"
+        }
+      },
+      {
+        "when": "lunging_deku_baba_4",
+        "model": {
+          "type": "model",
+          "model": "block/lunging_deku_baba_4"
         }
       },
       {
@@ -1303,10 +1317,17 @@
         }
       },
       {
-        "when": "rolling_rock",
+        "when": "rolling_rock_north_south",
         "model": {
           "type": "model",
-          "model": "block/rolling_rock"
+          "model": "block/rolling_rock_north_south"
+        }
+      },
+      {
+        "when": "rolling_rock_east_west",
+        "model": {
+          "type": "model",
+          "model": "block/rolling_rock_east_west"
         }
       },
       {
