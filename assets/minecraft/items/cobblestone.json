@@ -1226,6 +1226,13 @@
         }
       },
       {
+        "when": "torch_slug_dry",
+        "model": {
+          "type": "model",
+          "model": "block/torch_slug_dry"
+        }
+      },
+      {
         "when": "door_mimic",
         "model": {
           "type": "model",
