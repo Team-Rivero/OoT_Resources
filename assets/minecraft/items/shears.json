@@ -176,6 +176,13 @@
         }
       },
       {
+        "when": "glass_bottle",
+        "model": {
+          "type": "model",
+          "model": "item/glass_bottle"
+        }
+      },
+      {
         "when": "letter_bottle",
         "model": {
           "type": "model",
