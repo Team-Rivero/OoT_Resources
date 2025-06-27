@@ -939,6 +939,13 @@
         }
       },
       {
+        "when": "mask_shop_sign_inside",
+        "model": {
+          "type": "model",
+          "model": "block/mask_shop_sign_inside"
+        }
+      },
+      {
         "when": "mirror",
         "model": {
           "type": "model",
@@ -1405,6 +1412,13 @@
         "model": {
           "type": "model",
           "model": "block/triforce_1"
+        }
+      },
+      {
+        "when": "master_sword_pedestal",
+        "model": {
+          "type": "model",
+          "model": "block/master_sword_pedestal"
         }
       }
     ]
