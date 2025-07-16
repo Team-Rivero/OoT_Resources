@@ -538,6 +538,13 @@
           "type": "model",
           "model": "item/both_hands"
         }
+      },
+      {
+        "when": "written_book",
+        "model": {
+          "type": "model",
+          "model": "item/written_book"
+        }
       }
     ]
   }
