@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/stonecutter_saw",
@@ -35,7 +36,8 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, -7, -10]
+			"translation": [0, -7, -7],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }
