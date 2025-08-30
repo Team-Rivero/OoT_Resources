@@ -309,6 +309,13 @@
         }
       },
       {
+        "when": "incorrect",
+        "model": {
+          "type": "model",
+          "model": "item/incorrect"
+        }
+      },
+      {
         "when": "correct",
         "model": {
           "type": "model",
