@@ -27,6 +27,13 @@
           "type": "model",
           "model": "item/bombchu"
         }
+      },
+      {
+        "when": "seeds_arrows",
+        "model": {
+          "type": "model",
+          "model": "item/seeds_arrows"
+        }
       }
     ]
   }
