@@ -92,6 +92,13 @@
         }
       },
       {
+        "when": "deku_scrub_seeds",
+        "model": {
+          "type": "model",
+          "model": "block/deku_scrub_seeds"
+        }
+      },
+      {
         "when": "mad_scrub",
         "model": {
           "type": "model",
