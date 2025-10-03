@@ -365,6 +365,27 @@
         }
       },
       {
+        "when": "goron_ball",
+        "model": {
+          "type": "model",
+          "model": "block/goron_ball"
+        }
+      },
+      {
+        "when": "goron_roll_north_south",
+        "model": {
+          "type": "model",
+          "model": "block/goron_roll_north_south"
+        }
+      },
+      {
+        "when": "goron_roll_east_west",
+        "model": {
+          "type": "model",
+          "model": "block/goron_roll_east_west"
+        }
+      },
+      {
         "when": "biggoron",
         "model": {
           "type": "model",

@@ -183,13 +183,6 @@
         }
       },
       {
-        "when": "letter_bottle",
-        "model": {
-          "type": "model",
-          "model": "item/letter_bottle"
-        }
-      },
-      {
         "when": "deku_seeds",
         "model": {
           "type": "model",

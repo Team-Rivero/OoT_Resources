@@ -64,6 +64,13 @@
         }
       },
       {
+        "when": "letter_bottle",
+        "model": {
+          "type": "model",
+          "model": "item/letter_bottle"
+        }
+      },
+      {
         "when": "boomerang",
         "model": {
           "type": "model",
