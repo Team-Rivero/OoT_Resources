@@ -545,6 +545,41 @@
           "type": "model",
           "model": "item/written_book"
         }
+      },
+      {
+        "when": "lime_dye",
+        "model": {
+          "type": "model",
+          "model": "item/lime_dye"
+        }
+      },
+      {
+        "when": "blue_dye",
+        "model": {
+          "type": "model",
+          "model": "item/blue_dye"
+        }
+      },
+      {
+        "when": "red_dye",
+        "model": {
+          "type": "model",
+          "model": "item/red_dye"
+        }
+      },
+      {
+        "when": "purple_dye",
+        "model": {
+          "type": "model",
+          "model": "item/purple_dye"
+        }
+      },
+      {
+        "when": "yellow_dye",
+        "model": {
+          "type": "model",
+          "model": "item/yellow_dye"
+        }
       }
     ]
   }

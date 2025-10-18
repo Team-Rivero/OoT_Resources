@@ -78,20 +78,6 @@
         }
       },
       {
-        "when": "arms_11",
-        "model": {
-          "type": "model",
-          "model": "block/arms_11"
-        }
-      },
-      {
-        "when": "arms_12",
-        "model": {
-          "type": "model",
-          "model": "block/arms_12"
-        }
-      },
-      {
         "when": "arms_13",
         "model": {
           "type": "model",
@@ -211,10 +197,24 @@
         }
       },
       {
-        "when": "arms_30",
+        "when": "deku_stick",
         "model": {
           "type": "model",
-          "model": "block/arms_30"
+          "model": "block/deku_stick"
+        }
+      },
+      {
+        "when": "dampe_shovel",
+        "model": {
+          "type": "model",
+          "model": "block/dampe_shovel"
+        }
+      },
+      {
+        "when": "dampe_lantern",
+        "model": {
+          "type": "model",
+          "model": "block/dampe_lantern"
         }
       }
     ]
