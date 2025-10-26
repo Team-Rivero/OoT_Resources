@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "entity/player/wide/goron"
+		"1": "block/goron"
 	},
 	"elements": [
 		{

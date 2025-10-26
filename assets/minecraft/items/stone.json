@@ -216,6 +216,27 @@
           "type": "model",
           "model": "block/dampe_lantern"
         }
+      },
+      {
+        "when": "gerudo_spear",
+        "model": {
+          "type": "model",
+          "model": "block/gerudo_spear"
+        }
+      },
+      {
+        "when": "scarecrow",
+        "model": {
+          "type": "model",
+          "model": "block/scarecrow"
+        }
+      },
+      {
+        "when": "saria_ocarina",
+        "model": {
+          "type": "model",
+          "model": "block/saria_ocarina"
+        }
       }
     ]
   }

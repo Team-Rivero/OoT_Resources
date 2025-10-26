@@ -1,28 +1,16 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/emerald_block",
 		"2": "item/iron_sword",
 		"3": "block/magma",
 		"particle": "block/emerald_block"
 	},
 	"elements": [
 		{
-			"from": [6, 0, 6],
-			"to": [10, 12, 10],
-			"faces": {
-				"north": {"uv": [12, 0, 13, 1], "texture": "#0"},
-				"east": {"uv": [12, 0, 13, 1], "texture": "#0"},
-				"south": {"uv": [12, 0, 13, 1], "texture": "#0"},
-				"west": {"uv": [12, 0, 13, 1], "texture": "#0"},
-				"up": {"uv": [12, 0, 13, 1], "texture": "#0"},
-				"down": {"uv": [12, 0, 13, 1], "texture": "#0"}
-			}
-		},
-		{
 			"from": [7.5, -8.17958, 4.26197],
 			"to": [8.5, 21.82042, 5.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3, 12, 4, 13], "rotation": 180, "texture": "#2"},
 				"east": {"uv": [3, 12, 4, 13], "rotation": 270, "texture": "#2"},
@@ -35,7 +23,7 @@
 		{
 			"from": [7.5, 21.82042, 4.26197],
 			"to": [8.5, 22.82042, 5.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4, 13, 5, 14], "rotation": 180, "texture": "#3"},
 				"east": {"uv": [4, 13, 5, 14], "rotation": 270, "texture": "#3"},
@@ -48,7 +36,7 @@
 		{
 			"from": [7.5, 22.82042, 4.26197],
 			"to": [8.5, 30.82042, 5.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9, 5, 10, 6], "rotation": 180, "texture": "#2"},
 				"east": {"uv": [9, 5, 10, 6], "rotation": 270, "texture": "#2"},
@@ -61,7 +49,7 @@
 		{
 			"from": [7.5, 29.82042, 5.26197],
 			"to": [8.5, 31.82042, 6.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9, 5, 10, 6], "rotation": 180, "texture": "#2"},
 				"east": {"uv": [9, 5, 10, 6], "rotation": 270, "texture": "#2"},
@@ -74,7 +62,7 @@
 		{
 			"from": [7.5, 22.82042, 5.26197],
 			"to": [8.5, 25.82042, 6.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9, 5, 10, 6], "rotation": 180, "texture": "#2"},
 				"east": {"uv": [9, 5, 10, 6], "rotation": 270, "texture": "#2"},
@@ -87,7 +75,7 @@
 		{
 			"from": [7.5, 23.82042, 3.26197],
 			"to": [8.5, 29.82042, 4.26197],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"rotation": {"angle": -15, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9, 5, 10, 6], "rotation": 180, "texture": "#2"},
 				"east": {"uv": [9, 5, 10, 6], "rotation": 270, "texture": "#2"},
@@ -111,11 +99,12 @@
 			"scale": [0.46, 0.7, 1.68]
 		}
 	},
-	"groups": [0,
+	"groups": [
 		{
 			"name": "Spear",
 			"origin": [8, 8, 8],
-			"children": [1, 2, 3, 4, 5, 6]
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
 		}
 	]
 }
