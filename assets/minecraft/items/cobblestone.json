@@ -575,13 +575,6 @@
         }
       },
       {
-        "when": "talon_sleep",
-        "model": {
-          "type": "model",
-          "model": "block/talon_sleep"
-        }
-      },
-      {
         "when": "guru-guru",
         "model": {
           "type": "model",
