@@ -237,6 +237,13 @@
           "type": "model",
           "model": "block/saria_ocarina"
         }
+      },
+      {
+        "when": "guru_guru_music_box",
+        "model": {
+          "type": "model",
+          "model": "block/guru_guru_music_box"
+        }
       }
     ]
   }
