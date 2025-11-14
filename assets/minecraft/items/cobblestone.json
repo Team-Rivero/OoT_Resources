@@ -141,31 +141,10 @@
         }
       },
       {
-        "when": "title_1",
+        "when": "title",
         "model": {
           "type": "model",
-          "model": "block/title_1"
-        }
-      },
-      {
-        "when": "title_2",
-        "model": {
-          "type": "model",
-          "model": "block/title_2"
-        }
-      },
-      {
-        "when": "title_3",
-        "model": {
-          "type": "model",
-          "model": "block/title_3"
-        }
-      },
-      {
-        "when": "title_4",
-        "model": {
-          "type": "model",
-          "model": "block/title_4"
+          "model": "block/title"
         }
       },
       {
