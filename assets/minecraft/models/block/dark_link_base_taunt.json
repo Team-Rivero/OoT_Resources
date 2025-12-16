@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/black_stained_glass",
 		"1": "block/black_concrete",
-		"2": "item/diamond_sword",
+		"2": "block/diamond_sword",
 		"particle": "block/black_stained_glass"
 	},
 	"elements": [

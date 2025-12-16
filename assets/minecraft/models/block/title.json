@@ -7,9 +7,9 @@
 		"5": "block/light_gray_concrete",
 		"6": "block/blue_concrete",
 		"7": "block/yellow_concrete",
-		"8": "item/diamond_sword",
+		"8": "block/diamond_sword",
 		"9": "block/redstone_block",
-		"particle": "item/diamond_sword"
+		"particle": "block/diamond_sword"
 	},
 	"elements": [
 		{

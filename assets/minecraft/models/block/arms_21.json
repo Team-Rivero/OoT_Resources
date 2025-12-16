@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/emerald_block",
-		"2": "item/iron_sword",
+		"2": "block/iron_sword",
 		"4": "block/granite",
 		"particle": "block/emerald_block"
 	},

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/emerald_block",
-		"1": "item/stick",
+		"1": "block/stick",
 		"particle": "block/emerald_block"
 	},
 	"elements": [

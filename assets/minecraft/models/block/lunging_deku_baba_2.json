@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/stick",
+		"2": "block/stick",
 		"3": "block/lapis_block",
 		"4": "block/brain_coral_block",
 		"5": "block/azalea_top",
-		"particle": "item/stick"
+		"particle": "block/stick"
 	},
 	"elements": [
 		{

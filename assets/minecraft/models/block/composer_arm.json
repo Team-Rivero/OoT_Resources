@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/black_wool",
 		"4": "block/yellow_concrete",
-		"7": "item/diamond_sword",
+		"7": "block/diamond_sword",
 		"particle": "block/green_concrete_powder"
 	},
 	"elements": [

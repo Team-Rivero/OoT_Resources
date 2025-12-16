@@ -4,7 +4,7 @@
 		"2": "block/red_concrete",
 		"3": "block/white_terracotta",
 		"4": "block/spruce_planks",
-		"5": "item/diamond_sword",
+		"5": "block/diamond_sword",
 		"6": "block/green_terracotta",
 		"7": "block/red_terracotta",
 		"particle": "block/bedrock"
