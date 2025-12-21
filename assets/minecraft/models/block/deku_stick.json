@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/stick",
-		"particle": "block/emerald_block"
+		"1": "block/stick"
 	},
 	"elements": [
 		{

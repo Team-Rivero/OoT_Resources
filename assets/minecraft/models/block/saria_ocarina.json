@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/ocarina_saria",
-		"particle": "block/emerald_block"
+		"2": "block/ocarina_saria"
 	},
 	"elements": [
 		{

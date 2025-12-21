@@ -5,7 +5,7 @@
 		"2": "block/iron_door_bottom",
 		"4": "block/spruce_shelf",
 		"7": "block/mangrove_shelf",
-		"particle": "entity/player/wide/guru_guru_happy"
+		"particle": "block/guru_guru_happy"
 	},
 	"elements": [
 		{

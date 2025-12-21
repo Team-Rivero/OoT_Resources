@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/stone_shovel",
+		"1": "block/stone_shovel",
 		"particle": "block/emerald_block"
 	},
 	"elements": [

@@ -8,192 +8,45 @@
     },
     "cases": [
       {
-        "when": "arms_1",
+        "when": "redead",
         "model": {
           "type": "model",
-          "model": "block/arms_1"
+          "model": "block/redead"
         }
       },
       {
-        "when": "arms_2",
+        "when": "gibdo",
         "model": {
           "type": "model",
-          "model": "block/arms_2"
+          "model": "block/gibdo"
         }
       },
       {
-        "when": "arms_3",
+        "when": "scimitar",
         "model": {
           "type": "model",
-          "model": "block/arms_3"
+          "model": "block/scimitar"
         }
       },
       {
-        "when": "arms_4",
+        "when": "stalchild",
         "model": {
           "type": "model",
-          "model": "block/arms_4"
+          "model": "block/stalchild"
         }
       },
       {
-        "when": "arms_5",
+        "when": "halo",
         "model": {
           "type": "model",
-          "model": "block/arms_5"
+          "model": "block/halo"
         }
       },
       {
-        "when": "arms_6",
+        "when": "zelda_ocarina",
         "model": {
           "type": "model",
-          "model": "block/arms_6"
-        }
-      },
-      {
-        "when": "arms_7",
-        "model": {
-          "type": "model",
-          "model": "block/arms_7"
-        }
-      },
-      {
-        "when": "arms_8",
-        "model": {
-          "type": "model",
-          "model": "block/arms_8"
-        }
-      },
-      {
-        "when": "arms_9",
-        "model": {
-          "type": "model",
-          "model": "block/arms_9"
-        }
-      },
-      {
-        "when": "arms_10",
-        "model": {
-          "type": "model",
-          "model": "block/arms_10"
-        }
-      },
-      {
-        "when": "arms_13",
-        "model": {
-          "type": "model",
-          "model": "block/arms_13"
-        }
-      },
-      {
-        "when": "arms_14",
-        "model": {
-          "type": "model",
-          "model": "block/arms_14"
-        }
-      },
-      {
-        "when": "arms_15",
-        "model": {
-          "type": "model",
-          "model": "block/arms_15"
-        }
-      },
-      {
-        "when": "arms_16",
-        "model": {
-          "type": "model",
-          "model": "block/arms_16"
-        }
-      },
-      {
-        "when": "arms_17",
-        "model": {
-          "type": "model",
-          "model": "block/arms_17"
-        }
-      },
-      {
-        "when": "arms_18",
-        "model": {
-          "type": "model",
-          "model": "block/arms_18"
-        }
-      },
-      {
-        "when": "arms_19",
-        "model": {
-          "type": "model",
-          "model": "block/arms_19"
-        }
-      },
-      {
-        "when": "arms_20",
-        "model": {
-          "type": "model",
-          "model": "block/arms_20"
-        }
-      },
-      {
-        "when": "arms_21",
-        "model": {
-          "type": "model",
-          "model": "block/arms_21"
-        }
-      },
-      {
-        "when": "arms_22",
-        "model": {
-          "type": "model",
-          "model": "block/arms_22"
-        }
-      },
-      {
-        "when": "arms_23",
-        "model": {
-          "type": "model",
-          "model": "block/arms_23"
-        }
-      },
-      {
-        "when": "arms_24",
-        "model": {
-          "type": "model",
-          "model": "block/arms_24"
-        }
-      },
-      {
-        "when": "arms_25",
-        "model": {
-          "type": "model",
-          "model": "block/arms_25"
-        }
-      },
-      {
-        "when": "arms_26",
-        "model": {
-          "type": "model",
-          "model": "block/arms_26"
-        }
-      },
-      {
-        "when": "arms_27",
-        "model": {
-          "type": "model",
-          "model": "block/arms_27"
-        }
-      },
-      {
-        "when": "arms_28",
-        "model": {
-          "type": "model",
-          "model": "block/arms_28"
-        }
-      },
-      {
-        "when": "arms_29",
-        "model": {
-          "type": "model",
-          "model": "block/arms_29"
+          "model": "block/zelda_ocarina"
         }
       },
       {
