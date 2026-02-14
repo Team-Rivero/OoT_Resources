@@ -15,6 +15,14 @@
       }
     ]
   },
+  "goron" : {
+    "sounds": [
+      {
+	 "name": "soundeffects/goron",
+         "stream": true
+      }
+    ]
+  },
   "gameion_scarecrow" : {
     "sounds": [
       {
