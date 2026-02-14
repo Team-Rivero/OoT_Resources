@@ -1427,6 +1427,13 @@
           "type": "model",
           "model": "block/master_sword_pedestal"
         }
+      },
+      {
+        "when": "goron_city_spinning_pot",
+        "model": {
+          "type": "model",
+          "model": "block/goron_city_spinning_pot"
+        }
       }
     ]
   }
