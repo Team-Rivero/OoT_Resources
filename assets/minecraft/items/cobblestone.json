@@ -1434,6 +1434,34 @@
           "type": "model",
           "model": "block/goron_city_spinning_pot"
         }
+      },
+      {
+        "when": "darunia_dance_1",
+        "model": {
+          "type": "model",
+          "model": "block/darunia_dance_1"
+        }
+      },
+      {
+        "when": "darunia_dance_2",
+        "model": {
+          "type": "model",
+          "model": "block/darunia_dance_2"
+        }
+      },
+      {
+        "when": "darunia_dance_3",
+        "model": {
+          "type": "model",
+          "model": "block/darunia_dance_3"
+        }
+      },
+      {
+        "when": "darunia_dance_4",
+        "model": {
+          "type": "model",
+          "model": "block/darunia_dance_4"
+        }
       }
     ]
   }
