@@ -14,5 +14,7 @@
   "merchant.level.3": "",
   "merchant.level.4": "",
   "merchant.level.5": "",
-  "merchant.title": "%s %s"
+  "merchant.title": "%s %s",
+  "gui.experience.level": "",
+  "mount.onboard": ""
 }

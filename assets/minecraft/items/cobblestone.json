@@ -1462,6 +1462,13 @@
           "type": "model",
           "model": "block/darunia_dance_4"
         }
+      },
+      {
+        "when": "crate",
+        "model": {
+          "type": "model",
+          "model": "block/crate"
+        }
       }
     ]
   }
