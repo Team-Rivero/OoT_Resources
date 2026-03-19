@@ -23,7 +23,7 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [-8, -8, -8]
+			"translation": [0, -8, 0]
 		}
 	}
 }

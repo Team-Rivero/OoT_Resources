@@ -1469,6 +1469,13 @@
           "type": "model",
           "model": "block/crate"
         }
+      },
+      {
+        "when": "gerudo_fortress_secret_floor",
+        "model": {
+          "type": "model",
+          "model": "block/gerudo_fortress_secret_floor"
+        }
       }
     ]
   }
