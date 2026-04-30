@@ -174,36 +174,7 @@
           "type": "model",
           "model": "item/lens_of_truth_2"
         }
-      },
-      {
-        "when": "forest_temple_b2",
-        "model": {
-            "type": "model",
-            "model": "item/forest_temple_b2"
-        }
-      },
-      {
-        "when": "forest_temple_b1",
-        "model": {
-            "type": "model",
-            "model": "item/forest_temple_b1"
-        }
-      },
-      {
-        "when": "forest_temple_f1",
-        "model": {
-            "type": "model",
-            "model": "item/forest_temple_f1"
-        }
-      },
-      {
-        "when": "forest_temple_f2",
-        "model": {
-            "type": "model",
-            "model": "item/forest_temple_f2"
-        }
       }
     ]
-  },
-      "swap_animation_scale": 0
+  }
 }
