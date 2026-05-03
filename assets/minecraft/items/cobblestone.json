@@ -1490,6 +1490,69 @@
           "type": "model",
           "model": "block/carpet_master_carpet"
         }
+      },
+      {
+        "when": "deku_tree_webs_1",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_1"
+        }
+      },
+      {
+        "when": "deku_tree_webs_2",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_2"
+        }
+      },
+      {
+        "when": "deku_tree_webs_3",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_3"
+        }
+      },
+      {
+        "when": "deku_tree_webs_4",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_4"
+        }
+      },
+      {
+        "when": "deku_tree_webs_5",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_5"
+        }
+      },
+      {
+        "when": "deku_tree_webs_6",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_6"
+        }
+      },
+      {
+        "when": "deku_tree_webs_7",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_webs_7"
+        }
+      },
+      {
+        "when": "deku_tree_water_platform",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_water_platform"
+        }
+      },
+      {
+        "when": "deku_tree_spike_wheel",
+        "model": {
+          "type": "model",
+          "model": "block/deku_tree_spike_wheel"
+        }
       }
     ]
   }
