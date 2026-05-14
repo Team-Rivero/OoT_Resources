@@ -1553,6 +1553,13 @@
           "type": "model",
           "model": "block/deku_tree_spike_wheel"
         }
+      },
+      {
+        "when": "small_crate",
+        "model": {
+          "type": "model",
+          "model": "block/small_crate"
+        }
       }
     ]
   }

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/gohma/arms",
+	"textures": {
+		"13": "minecraft:block/activator_rail_on"
+	}
+}
