@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"4": "minecraft:block/hay_block_side",
-		"10": "minecraft:block/activator_rail_on",
-		"11": "minecraft:block/beacon",
+		"4": "animated_java:blueprint/gohma/hay_block_side",
+		"10": "animated_java:blueprint/gohma/activator_rail_on",
+		"11": "animated_java:blueprint/gohma/beacon",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

@@ -1,6 +1,6 @@
 {
 	"parent": "animated_java:blueprint/gohma/left_foot1",
 	"textures": {
-		"13": "minecraft:block/activator_rail_on"
+		"13": "animated_java:blueprint/gohma/activator_rail_on"
 	}
 }

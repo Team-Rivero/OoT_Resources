@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "minecraft:block/bamboo_stalk",
-		"5": "minecraft:block/red_concrete",
+		"0": "animated_java:blueprint/gohma/bamboo_stalk",
+		"5": "animated_java:blueprint/gohma/red_concrete",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

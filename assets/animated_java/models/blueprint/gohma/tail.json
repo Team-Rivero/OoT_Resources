@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"5": "minecraft:block/red_concrete",
-		"6": "minecraft:block/pink_wool",
-		"12": "minecraft:block/black_wool",
+		"5": "animated_java:blueprint/gohma/red_concrete",
+		"6": "animated_java:blueprint/gohma/pink_wool",
+		"12": "animated_java:blueprint/gohma/black_wool",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

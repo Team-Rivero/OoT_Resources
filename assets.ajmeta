@@ -67,7 +67,21 @@
 				"assets/animated_java/models/blueprint/gohma/vulnerable/right_foot.json",
 				"assets/animated_java/models/blueprint/gohma/vulnerable/right_leg.json",
 				"assets/animated_java/models/blueprint/gohma/vulnerable/tail.json",
-				"assets/animated_java/models/blueprint/gohma/vulnerable/teeth.json"
+				"assets/animated_java/models/blueprint/gohma/vulnerable/teeth.json",
+				"assets/animated_java/textures/blueprint/gohma/acacia_planks.png",
+				"assets/animated_java/textures/blueprint/gohma/activator_rail_on.png",
+				"assets/animated_java/textures/blueprint/gohma/bamboo_stalk.png",
+				"assets/animated_java/textures/blueprint/gohma/beacon.png",
+				"assets/animated_java/textures/blueprint/gohma/birch_planks.png",
+				"assets/animated_java/textures/blueprint/gohma/black_wool.png",
+				"assets/animated_java/textures/blueprint/gohma/hay_block_side.png",
+				"assets/animated_java/textures/blueprint/gohma/mushroom_block_inside.png",
+				"assets/animated_java/textures/blueprint/gohma/orange_concrete.png",
+				"assets/animated_java/textures/blueprint/gohma/pink_wool.png",
+				"assets/animated_java/textures/blueprint/gohma/purple_wool.png",
+				"assets/animated_java/textures/blueprint/gohma/red_concrete.png",
+				"assets/animated_java/textures/blueprint/gohma/red_concrete_powder.png",
+				"assets/animated_java/textures/blueprint/gohma/yellow_concrete_powder.png"
 			]
 		}
 	}

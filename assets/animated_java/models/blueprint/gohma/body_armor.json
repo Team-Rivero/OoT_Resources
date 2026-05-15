@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"7": "minecraft:block/mushroom_block_inside",
-		"8": "minecraft:block/red_concrete_powder",
-		"9": "minecraft:block/purple_wool",
+		"7": "animated_java:blueprint/gohma/mushroom_block_inside",
+		"8": "animated_java:blueprint/gohma/red_concrete_powder",
+		"9": "animated_java:blueprint/gohma/purple_wool",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {

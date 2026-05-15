@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"13": "minecraft:block/yellow_concrete_powder",
+		"13": "animated_java:blueprint/gohma/yellow_concrete_powder",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
