@@ -580,6 +580,13 @@
           "type": "model",
           "model": "item/yellow_dye"
         }
+      },
+      {
+        "when": "filled_map",
+        "model": {
+          "type": "model",
+          "model": "item/filled_map"
+        }
       }
     ]
   }
