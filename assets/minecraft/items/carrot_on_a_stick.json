@@ -148,13 +148,6 @@
         }
       },
       {
-        "when": "compass",
-        "model": {
-          "type": "model",
-          "model": "item/compass"
-        }
-      },
-      {
         "when": "blue_potion",
         "model": {
           "type": "model",

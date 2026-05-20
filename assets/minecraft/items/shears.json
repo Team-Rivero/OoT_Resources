@@ -587,6 +587,13 @@
           "type": "model",
           "model": "item/filled_map"
         }
+      },
+      {
+        "when": "compass",
+        "model": {
+          "type": "model",
+          "model": "item/compass"
+        }
       }
     ]
   }
