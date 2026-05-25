@@ -1,18 +1,20 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/granite",
-		"particle": "block/granite"
+		"0": "block/smooth_stone",
+		"1": "block/smooth_stone_slab_side",
+		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [16, 8, 16],
 			"faces": {
-				"north": {"uv": [0, 8, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 8, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 8, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
@@ -21,8 +23,8 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, -16, 0],
-			"scale": [2.3, 2.3, 2.3]
+			"translation": [0, -7.5, 0],
+			"scale": [1.55, 1.55, 1.55]
 		}
 	}
 }

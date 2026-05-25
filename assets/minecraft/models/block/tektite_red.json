@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/wet_sponge",
@@ -4502,29 +4503,34 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, -16, 0]
+			"translation": [0, -7.5, 0],
+			"scale": [0.73, 0.73, 0.73]
 		}
 	},
 	"groups": [
 		{
 			"name": "Legs",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Back Right Leg",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "Red",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [0, 1, 2, 3, 4]
 						},
 						{
 							"name": "Green",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 						}
@@ -4533,17 +4539,20 @@
 				{
 					"name": "Back Left Leg",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "Red",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [17, 18, 19, 20, 21]
 						},
 						{
 							"name": "Green",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
 						}
@@ -4552,17 +4561,20 @@
 				{
 					"name": "Front Right Leg",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "Red",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [34, 35, 36, 37, 38]
 						},
 						{
 							"name": "Green",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
 						}
@@ -4571,17 +4583,20 @@
 				{
 					"name": "Front Left Leg",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "Red",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [51, 52, 53, 54, 55]
 						},
 						{
 							"name": "Green",
 							"origin": [8, 8, 8],
+							"scope": 0,
 							"color": 0,
 							"children": [56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
 						}
@@ -4592,17 +4607,20 @@
 		{
 			"name": "Body",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Eye",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85]
 				},
 				{
 					"name": "Belly",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						86,
@@ -4738,6 +4756,7 @@
 				{
 					"name": "Top Shell",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						214,
@@ -4879,6 +4898,7 @@
 				{
 					"name": "Leg Holes",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [348, 349, 350, 351, 352, 353, 354, 355]
 				}
@@ -4887,12 +4907,14 @@
 		{
 			"name": "Extra",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [356, 357, 358, 359, 360, 361, 362, 363, 364]
 		},
 		{
 			"name": "Nails",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [365, 366, 367, 368, 369, 370, 371, 372, 373]
 		}

@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/beehive_front",
@@ -3206,19 +3207,21 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, -17.25, 0],
-			"scale": [2, 2, 2]
+			"translation": [0, -10.5, 0],
+			"scale": [1.47, 1.47, 1.47]
 		}
 	},
 	"groups": [
 		{
 			"name": "Shell Blade",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Top Shell",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						0,
@@ -3311,6 +3314,7 @@
 				{
 					"name": "Bottom Shell",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						85,
@@ -3384,6 +3388,7 @@
 				{
 					"name": "Spikes",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						151,
@@ -3450,18 +3455,21 @@
 				{
 					"name": "Top Lips",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233]
 				},
 				{
 					"name": "Bottom Lips",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255]
 				},
 				{
 					"name": "Tongue",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [256]
 				}

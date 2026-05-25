@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/birch_planks",
@@ -1180,19 +1181,21 @@
 	"gui_light": "front",
 	"display": {
 		"head": {
-			"translation": [0, 2, 0],
-			"scale": [1.85, 1.85, 1.85]
+			"translation": [0, 4.5, 0],
+			"scale": [1.36, 1.36, 1.36]
 		}
 	},
 	"groups": [
 		{
 			"name": "Beamos",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Head",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						0,
