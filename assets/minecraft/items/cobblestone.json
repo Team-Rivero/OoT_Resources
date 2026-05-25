@@ -1560,6 +1560,13 @@
           "type": "model",
           "model": "block/small_crate"
         }
+      },
+      {
+        "when": "dodongo_cavern_bomb_stairs",
+        "model": {
+          "type": "model",
+          "model": "block/dodongo_cavern_bomb_stairs"
+        }
       }
     ]
   }
