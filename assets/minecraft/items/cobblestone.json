@@ -1478,6 +1478,13 @@
         }
       },
       {
+        "when": "randomizer_crate",
+        "model": {
+          "type": "model",
+          "model": "block/randomizer_crate"
+        }
+      },
+      {
         "when": "gerudo_fortress_secret_floor",
         "model": {
           "type": "model",
