@@ -1065,24 +1065,17 @@
         }
       },
       {
-        "when": "king_dodongo_head_opened",
+        "when": "king_dodongo_opened",
         "model": {
           "type": "model",
-          "model": "block/king_dodongo_head_opened"
+          "model": "block/king_dodongo_opened"
         }
       },
       {
-        "when": "king_dodongo_head_closed",
+        "when": "king_dodongo_closed",
         "model": {
           "type": "model",
-          "model": "block/king_dodongo_head_closed"
-        }
-      },
-      {
-        "when": "king_dodongo_body",
-        "model": {
-          "type": "model",
-          "model": "block/king_dodongo_body"
+          "model": "block/king_dodongo_closed"
         }
       },
       {
