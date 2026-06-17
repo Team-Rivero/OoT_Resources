@@ -1178,6 +1178,7 @@
 		}
 	],
 	"gui_light": "front",
+	"display": {},
 	"groups": [
 		{
 			"name": "First Row",

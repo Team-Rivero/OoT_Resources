@@ -1567,6 +1567,13 @@
           "type": "model",
           "model": "block/dodongo_cavern_bomb_stairs"
         }
+      },
+      {
+        "when": "jabu_jabu_orifice",
+        "model": {
+          "type": "model",
+          "model": "block/jabu_jabu_orifice"
+        }
       }
     ]
   }
