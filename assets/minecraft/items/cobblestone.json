@@ -1574,6 +1574,27 @@
           "type": "model",
           "model": "block/jabu_jabu_orifice"
         }
+      },
+      {
+        "when": "red_slimy_thing",
+        "model": {
+          "type": "model",
+          "model": "block/red_slimy_thing"
+        }
+      },
+      {
+        "when": "blue_slimy_thing",
+        "model": {
+          "type": "model",
+          "model": "block/blue_slimy_thing"
+        }
+      },
+      {
+        "when": "green_slimy_thing",
+        "model": {
+          "type": "model",
+          "model": "block/green_slimy_thing"
+        }
       }
     ]
   }

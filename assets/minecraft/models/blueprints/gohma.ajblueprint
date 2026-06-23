@@ -3,7 +3,7 @@
 		"format": "animated-java:format/blueprint",
 		"format_version": "1.8.1",
 		"uuid": "dbf58026-deca-763e-fe21-122ad1d52846",
-		"save_location": "D:\\ATLauncher\\instances\\Minecraft2612withFabric\\resourcepacks\\OoT_Resources\\assets\\minecraft\\models\\blueprints\\gohma.ajblueprint",
+		"save_location": "D:\\ATLauncher\\instances\\Minecraft262withFabric\\resourcepacks\\OoT_Resources\\assets\\minecraft\\models\\blueprints\\gohma.ajblueprint",
 		"last_used_export_namespace": "gohma"
 	},
 	"resolution": {
@@ -13,7 +13,7 @@
 	"blueprint_settings": {
 		"export_namespace": "gohma",
 		"render_box": [48, 48],
-		"resource_pack": "D:\\ATLauncher\\instances\\Minecraft2612withFabric\\resourcepacks\\OoT_Resources",
+		"resource_pack": "D:\\ATLauncher\\instances\\Minecraft262withFabric\\resourcepacks\\OoT_Resources",
 		"data_pack": "D:\\ATLauncher\\servers\\OoT\\world\\datapacks\\OoT_Data"
 	},
 	"elements": [
@@ -30025,7 +30025,7 @@
 			"locked": false,
 			"visibility": true,
 			"autouv": 0,
-			"selected": true,
+			"selected": false,
 			"children": [
 				{
 					"name": "left",
