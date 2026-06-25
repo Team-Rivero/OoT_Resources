@@ -84,6 +84,47 @@
 				"assets/animated_java/textures/blueprint/gohma/yellow_concrete_powder.png"
 			]
 		},
+		"red_jelly": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/red_jelly/bone_1.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_2.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_3.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_4.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_5.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_6.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_7.json",
+				"assets/animated_java/items/blueprint/red_jelly/bone_8.json",
+				"assets/animated_java/items/blueprint/red_jelly/red_jelly.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_1.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_2.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_3.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_4.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_5.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_6.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_7.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/bone_8.json",
+				"assets/animated_java/models/blueprint/red_jelly/blue/red_jelly.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_1.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_2.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_3.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_4.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_5.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_6.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_7.json",
+				"assets/animated_java/models/blueprint/red_jelly/bone_8.json",
+				"assets/animated_java/models/blueprint/red_jelly/red_jelly.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_1.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_2.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_3.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_4.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_5.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_6.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_7.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/bone_8.json",
+				"assets/animated_java/models/blueprint/red_jelly/returning/red_jelly.json"
+			]
+		},
 		"tentacle": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
