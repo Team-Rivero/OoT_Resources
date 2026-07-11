@@ -1,10 +1,9 @@
 {
-	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/green_concrete_powder",
+		"0": "block/blue_concrete_powder",
 		"1": "block/bone_block_side",
-		"particle": "block/green_concrete_powder"
+		"particle": "block/blue_concrete_powder"
 	},
 	"elements": [
 		{
@@ -253,16 +252,14 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -19, 11],
-			"scale": [2.5, 2, 2.5]
+			"translation": [0, -30, 3],
+			"scale": [4, 2.8, 3.2]
 		}
 	},
 	"groups": [
 		{
-			"name": "Green Tentacle",
+			"name": "Blue Tentacle",
 			"origin": [8, 8, 8],
-			"scope": 0,
-			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 		}
 	]

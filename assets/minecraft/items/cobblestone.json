@@ -1595,6 +1595,13 @@
           "type": "model",
           "model": "block/green_slimy_thing"
         }
+      },
+      {
+        "when": "jabu_jabu_ceiling",
+        "model": {
+          "type": "model",
+          "model": "block/jabu_jabu_ceiling"
+        }
       }
     ]
   }
