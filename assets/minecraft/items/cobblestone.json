@@ -1602,6 +1602,34 @@
           "type": "model",
           "model": "block/jabu_jabu_ceiling"
         }
+      },
+      {
+        "when": "gold_eye_open",
+        "model": {
+          "type": "model",
+          "model": "block/gold_eye_open"
+        }
+      },
+      {
+        "when": "gold_eye_closed",
+        "model": {
+          "type": "model",
+          "model": "block/gold_eye_closed"
+        }
+      },
+      {
+        "when": "silver_eye_open",
+        "model": {
+          "type": "model",
+          "model": "block/silver_eye_open"
+        }
+      },
+      {
+        "when": "silver_eye_closed",
+        "model": {
+          "type": "model",
+          "model": "block/silver_eye_closed"
+        }
       }
     ]
   }
