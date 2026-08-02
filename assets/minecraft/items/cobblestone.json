@@ -1637,6 +1637,13 @@
           "type": "model",
           "model": "block/locked_door"
         }
+      },
+      {
+        "when": "forest_temple_twisted_hall_1",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_1"
+        }
       }
     ]
   }
