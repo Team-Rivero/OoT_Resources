@@ -1630,6 +1630,13 @@
           "type": "model",
           "model": "block/silver_eye_closed"
         }
+      },
+      {
+        "when": "locked_door",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door"
+        }
       }
     ]
   }

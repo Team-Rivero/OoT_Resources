@@ -594,6 +594,76 @@
           "type": "model",
           "model": "item/compass"
         }
+      },
+      {
+        "when": "key",
+        "model": {
+          "type": "model",
+          "model": "item/key"
+        }
+      },
+      {
+        "when": "key_forest_temple",
+        "model": {
+          "type": "model",
+          "model": "item/key_forest_temple"
+        }
+      },
+      {
+        "when": "key_fire_temple",
+        "model": {
+          "type": "model",
+          "model": "item/key_fire_temple"
+        }
+      },
+      {
+        "when": "key_ganon_castle",
+        "model": {
+          "type": "model",
+          "model": "item/key_ganon_castle"
+        }
+      },
+      {
+        "when": "key_gerudo_fortress",
+        "model": {
+          "type": "model",
+          "model": "item/key_gerudo_fortress"
+        }
+      },
+      {
+        "when": "key_shadow_temple",
+        "model": {
+          "type": "model",
+          "model": "item/key_shadow_temple"
+        }
+      },
+      {
+        "when": "key_spirit_temple",
+        "model": {
+          "type": "model",
+          "model": "item/key_spirit_temple"
+        }
+      },
+      {
+        "when": "key_training_ground",
+        "model": {
+          "type": "model",
+          "model": "item/key_training_ground"
+        }
+      },
+      {
+        "when": "key_water_temple",
+        "model": {
+          "type": "model",
+          "model": "item/key_water_temple"
+        }
+      },
+      {
+        "when": "key_well",
+        "model": {
+          "type": "model",
+          "model": "item/key_well"
+        }
       }
     ]
   }
