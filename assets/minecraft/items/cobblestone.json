@@ -1352,10 +1352,17 @@
         }
       },
       {
-        "when": "boss_door",
+        "when": "boss_door_unlocked",
         "model": {
           "type": "model",
-          "model": "block/boss_door"
+          "model": "block/boss_door_unlocked"
+        }
+      },
+      {
+        "when": "boss_door_locked",
+        "model": {
+          "type": "model",
+          "model": "block/boss_door_locked"
         }
       },
       {
@@ -1643,6 +1650,13 @@
         "model": {
           "type": "model",
           "model": "block/forest_temple_twisted_hall_1"
+        }
+      },
+      {
+        "when": "forest_temple_floor_arrow",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_floor_arrow"
         }
       }
     ]
