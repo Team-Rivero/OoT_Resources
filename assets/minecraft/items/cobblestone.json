@@ -1646,10 +1646,38 @@
         }
       },
       {
+        "when": "forest_temple_ladders",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_ladders"
+        }
+      },
+      {
         "when": "forest_temple_twisted_hall_1",
         "model": {
           "type": "model",
           "model": "block/forest_temple_twisted_hall_1"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_2",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_2"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_3",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_3"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_4",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_4"
         }
       },
       {
