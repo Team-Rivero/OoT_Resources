@@ -1681,6 +1681,34 @@
         }
       },
       {
+        "when": "forest_temple_twisted_hall_5",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_5"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_6",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_6"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_7",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_7"
+        }
+      },
+      {
+        "when": "forest_temple_twisted_hall_8",
+        "model": {
+          "type": "model",
+          "model": "block/forest_temple_twisted_hall_8"
+        }
+      },
+      {
         "when": "forest_temple_floor_arrow",
         "model": {
           "type": "model",

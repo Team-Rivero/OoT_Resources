@@ -435,6 +435,13 @@
         }
       },
       {
+        "when": "bow",
+        "model": {
+          "type": "model",
+          "model": "item/bow"
+        }
+      },
+      {
         "when": "quiver",
         "model": {
           "type": "model",
