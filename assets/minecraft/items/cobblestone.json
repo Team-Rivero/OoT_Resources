@@ -1310,10 +1310,10 @@
         }
       },
       {
-        "when": "blue_poe_block",
+        "when": "green_poe_block_fake",
         "model": {
           "type": "model",
-          "model": "block/blue_poe_block"
+          "model": "block/green_poe_block_fake"
         }
       },
       {
