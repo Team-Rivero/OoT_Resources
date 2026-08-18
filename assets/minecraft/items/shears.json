@@ -239,24 +239,24 @@
         }
       },
       {
-        "when": "phantom_ganon_1",
+        "when": "phantom_ganon_return",
         "model": {
           "type": "model",
-          "model": "item/phantom_ganon_1"
+          "model": "item/phantom_ganon_return"
         }
       },
       {
-        "when": "phantom_ganon_2",
+        "when": "phantom_ganon_real",
         "model": {
           "type": "model",
-          "model": "item/phantom_ganon_2"
+          "model": "item/phantom_ganon_real"
         }
       },
       {
-        "when": "phantom_ganon_3",
+        "when": "phantom_ganon_fake",
         "model": {
           "type": "model",
-          "model": "item/phantom_ganon_3"
+          "model": "item/phantom_ganon_fake"
         }
       },
       {
