@@ -8,31 +8,17 @@
     },
     "cases": [
       {
-        "when": "switch_1_off",
+        "when": "crystal_switch_off",
         "model": {
           "type": "model",
-          "model": "block/switch_1_off"
+          "model": "block/crystal_switch_off"
         }
       },
       {
-        "when": "switch_1_on",
+        "when": "crystal_switch_on",
         "model": {
           "type": "model",
-          "model": "block/switch_1_on"
-        }
-      },
-      {
-        "when": "switch_2_off",
-        "model": {
-          "type": "model",
-          "model": "block/switch_2_off"
-        }
-      },
-      {
-        "when": "switch_2_on",
-        "model": {
-          "type": "model",
-          "model": "block/switch_2_on"
+          "model": "block/crystal_switch_on"
         }
       },
       {
