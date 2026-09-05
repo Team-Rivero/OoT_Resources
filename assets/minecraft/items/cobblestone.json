@@ -582,10 +582,10 @@
         }
       },
       {
-        "when": "fire_wall",
+        "when": "fire_temple_moving_fire",
         "model": {
           "type": "model",
-          "model": "block/fire_wall"
+          "model": "block/fire_temple_moving_fire"
         }
       },
       {
