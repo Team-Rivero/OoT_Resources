@@ -1030,6 +1030,20 @@
         }
       },
       {
+        "when": "volvagia_head_stun",
+        "model": {
+          "type": "model",
+          "model": "block/volvagia_head_stun"
+        }
+      },
+      {
+        "when": "volvagia_lava",
+        "model": {
+          "type": "model",
+          "model": "block/volvagia_lava"
+        }
+      },
+      {
         "when": "armos",
         "model": {
           "type": "model",
