@@ -596,13 +596,6 @@
         }
       },
       {
-        "when": "ice_blade_center",
-        "model": {
-          "type": "model",
-          "model": "block/ice_blade_center"
-        }
-      },
-      {
         "when": "barinade_tentacle_red",
         "model": {
           "type": "model",
