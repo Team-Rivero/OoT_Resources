@@ -19,12 +19,7 @@
           {
             "name": "ColorModulate",
             "type": "vec4",
-            "value": [
-              1,
-              1,
-              1,
-              1
-            ]
+            "value": [ 1, 1, 1, 1 ]
           }
         ]
       },
@@ -44,12 +39,7 @@
           {
             "name": "ColorModulate",
             "type": "vec4",
-            "value": [
-              1,
-              1,
-              1,
-              1
-            ]
+            "value": [ 1, 1, 1, 1 ]
           }
         ]
       },
@@ -84,12 +74,7 @@
           {
             "name": "ColorModulate",
             "type": "vec4",
-            "value": [
-              1,
-              1,
-              1,
-              1
-            ]
+            "value": [ 1, 1, 1, 1 ]
           }
         ]
       },
@@ -108,64 +93,6 @@
     },
     {
       "vertex_shader": "minecraft:core/screenquad",
-      "fragment_shader": "minecraft:post/entity_outline_box_blur",
-      "inputs": [
-        {
-          "sampler_name": "In",
-          "target": "swap",
-          "bilinear": true
-        }
-      ],
-      "output": "minecraft:entity_outline",
-      "uniforms": {
-        "BlurConfig": [
-          {
-            "name": "BlurDir",
-            "type": "vec2",
-            "value": [
-              1,
-              0
-            ]
-          },
-          {
-            "name": "Radius",
-            "type": "float",
-            "value": 2
-          }
-        ]
-      }
-    },
-    {
-      "vertex_shader": "minecraft:core/screenquad",
-      "fragment_shader": "minecraft:post/entity_outline_box_blur",
-      "inputs": [
-        {
-          "sampler_name": "In",
-          "target": "minecraft:entity_outline",
-          "bilinear": true
-        }
-      ],
-      "output": "swap",
-      "uniforms": {
-        "BlurConfig": [
-          {
-            "name": "BlurDir",
-            "type": "vec2",
-            "value": [
-              0,
-              1
-            ]
-          },
-          {
-            "name": "Radius",
-            "type": "float",
-            "value": 2
-          }
-        ]
-      }
-    },
-    {
-      "vertex_shader": "minecraft:core/screenquad",
       "fragment_shader": "minecraft:post/blit",
       "inputs": [
         {
@@ -178,12 +105,7 @@
           {
             "name": "ColorModulate",
             "type": "vec4",
-            "value": [
-              1,
-              1,
-              1,
-              1
-            ]
+            "value": [ 1, 1, 1, 1 ]
           }
         ]
       },
