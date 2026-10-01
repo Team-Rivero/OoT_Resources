@@ -57,7 +57,7 @@
     },
     {
       "vertex_shader": "minecraft:core/screenquad",
-      "fragment_shader": "minecraft:post/grayscale_glowing",
+      "fragment_shader": "minecraft:post/grayscale",
       "inputs": [
         {
           "sampler_name": "In",
