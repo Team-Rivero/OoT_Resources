@@ -1,6 +1,10 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:morpha": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": ["assets/aj/items/blueprint/morpha/tentacle.json", "assets/aj/models/blueprint/morpha/tentacle.json"]
+		},
 		"gohma": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
