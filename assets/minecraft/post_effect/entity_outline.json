@@ -1,7 +1,4 @@
 {
-    "targets": {
-        "swap": {}
-    },
     "passes": [
         {
             "vertex_shader": "minecraft:core/screenquad",
@@ -9,7 +6,7 @@
             "inputs": [
                 {
                     "sampler_name": "In",
-                    "target": "minecraft:entity_outline"
+                    "target": "entity_outline"
                 }
             ],
             "uniforms": {
@@ -17,27 +14,11 @@
                     {
                         "name": "ColorModulate",
                         "type": "vec4",
-                        "value": [
-                            0.0,
-                            0.0,
-                            0.0,
-                            0.90
-                        ]
+                        "value": [ 0.0, 0.0, 0.0, 0.7 ]
                     }
                 ]
             },
-            "output": "swap"
-        },
-        {
-            "vertex_shader": "minecraft:core/screenquad",
-            "fragment_shader": "minecraft:post/blit",
-            "inputs": [
-                {
-                    "sampler_name": "In",
-                    "target": "swap"
-                }
-            ],
-            "output": "minecraft:entity_outline"
+            "output": "entity_outline"
         }
     ]
 }
