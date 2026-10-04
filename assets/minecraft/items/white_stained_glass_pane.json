@@ -120,6 +120,13 @@
         }
       },
       {
+        "when": "dark_link_sword_stand",
+        "model": {
+          "type": "model",
+          "model": "block/dark_link_sword_stand"
+        }
+      },
+      {
         "when": "dark_link_shield",
         "model": {
           "type": "model",
@@ -131,13 +138,6 @@
         "model": {
           "type": "model",
           "model": "block/dark_link_shield_block"
-        }
-      },
-      {
-        "when": "dark_link_base_taunt",
-        "model": {
-          "type": "model",
-          "model": "block/dark_link_base_taunt"
         }
       },
       {
