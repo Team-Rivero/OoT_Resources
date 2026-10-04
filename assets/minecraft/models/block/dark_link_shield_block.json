@@ -1855,7 +1855,8 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0.5, -3, 4],
+			"rotation": [67.5, 90, 0],
+			"translation": [-3.75, 1, 2.5],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {

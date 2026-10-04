@@ -14,7 +14,7 @@
                     {
                         "name": "ColorModulate",
                         "type": "vec4",
-                        "value": [ 0.0, 0.0, 0.0, 0.7 ]
+                        "value": [ 0.0, 0.0, 0.0, 0.8 ]
                     }
                 ]
             },

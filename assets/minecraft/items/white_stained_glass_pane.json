@@ -113,24 +113,10 @@
         }
       },
       {
-        "when": "dark_link_base_reflection",
-        "model": {
-          "type": "model",
-          "model": "block/dark_link_base_reflection"
-        }
-      },
-      {
         "when": "dark_link_sword",
         "model": {
           "type": "model",
           "model": "block/dark_link_sword"
-        }
-      },
-      {
-        "when": "dark_link_sword_reflection",
-        "model": {
-          "type": "model",
-          "model": "block/dark_link_sword_reflection"
         }
       },
       {
@@ -141,10 +127,10 @@
         }
       },
       {
-        "when": "dark_link_shield_reflection",
+        "when": "dark_link_shield_block",
         "model": {
           "type": "model",
-          "model": "block/dark_link_shield_reflection"
+          "model": "block/dark_link_shield_block"
         }
       },
       {
