@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "minecraft:block/pink_stained_glass",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [2, 2, 2],
+			"to": [14, 14, 14],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, -34, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

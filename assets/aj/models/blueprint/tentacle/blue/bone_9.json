@@ -1,0 +1,6 @@
+{
+	"parent": "aj:blueprint/tentacle/bone_9",
+	"textures": {
+		"0": "minecraft:block/blue_concrete_powder"
+	}
+}
