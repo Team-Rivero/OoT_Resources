@@ -1,41 +1,6 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
-		"aj:morpha": {
-			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
-			"versionedFiles": [
-				"assets/aj/items/blueprint/morpha/base1.json",
-				"assets/aj/items/blueprint/morpha/base2.json",
-				"assets/aj/items/blueprint/morpha/horizontal1.json",
-				"assets/aj/items/blueprint/morpha/horizontal2.json",
-				"assets/aj/items/blueprint/morpha/horizontal3.json",
-				"assets/aj/items/blueprint/morpha/horizontal4.json",
-				"assets/aj/items/blueprint/morpha/horizontal5.json",
-				"assets/aj/items/blueprint/morpha/horizontal6.json",
-				"assets/aj/items/blueprint/morpha/horizontal7.json",
-				"assets/aj/items/blueprint/morpha/root.json",
-				"assets/aj/items/blueprint/morpha/vertical1.json",
-				"assets/aj/items/blueprint/morpha/vertical2.json",
-				"assets/aj/items/blueprint/morpha/vertical3.json",
-				"assets/aj/items/blueprint/morpha/vertical4.json",
-				"assets/aj/items/blueprint/morpha/vertical5.json",
-				"assets/aj/models/blueprint/morpha/base1.json",
-				"assets/aj/models/blueprint/morpha/base2.json",
-				"assets/aj/models/blueprint/morpha/horizontal1.json",
-				"assets/aj/models/blueprint/morpha/horizontal2.json",
-				"assets/aj/models/blueprint/morpha/horizontal3.json",
-				"assets/aj/models/blueprint/morpha/horizontal4.json",
-				"assets/aj/models/blueprint/morpha/horizontal5.json",
-				"assets/aj/models/blueprint/morpha/horizontal6.json",
-				"assets/aj/models/blueprint/morpha/horizontal7.json",
-				"assets/aj/models/blueprint/morpha/root.json",
-				"assets/aj/models/blueprint/morpha/vertical1.json",
-				"assets/aj/models/blueprint/morpha/vertical2.json",
-				"assets/aj/models/blueprint/morpha/vertical3.json",
-				"assets/aj/models/blueprint/morpha/vertical4.json",
-				"assets/aj/models/blueprint/morpha/vertical5.json"
-			]
-		},
 		"aj:tentacle": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
@@ -87,6 +52,43 @@
 				"assets/aj/models/blueprint/tentacle/green/bone_9.json",
 				"assets/aj/models/blueprint/tentacle/green/tentacle.json",
 				"assets/aj/models/blueprint/tentacle/tentacle.json"
+			]
+		},
+		"animated_java:morpha": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/morpha/base1.json",
+				"assets/animated_java/items/blueprint/morpha/base2.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal1.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal2.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal3.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal4.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal5.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal6.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal7.json",
+				"assets/animated_java/items/blueprint/morpha/horizontal8.json",
+				"assets/animated_java/items/blueprint/morpha/root.json",
+				"assets/animated_java/items/blueprint/morpha/vertical1.json",
+				"assets/animated_java/items/blueprint/morpha/vertical2.json",
+				"assets/animated_java/items/blueprint/morpha/vertical3.json",
+				"assets/animated_java/items/blueprint/morpha/vertical4.json",
+				"assets/animated_java/items/blueprint/morpha/vertical5.json",
+				"assets/animated_java/models/blueprint/morpha/base1.json",
+				"assets/animated_java/models/blueprint/morpha/base2.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal1.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal2.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal3.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal4.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal5.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal6.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal7.json",
+				"assets/animated_java/models/blueprint/morpha/horizontal8.json",
+				"assets/animated_java/models/blueprint/morpha/root.json",
+				"assets/animated_java/models/blueprint/morpha/vertical1.json",
+				"assets/animated_java/models/blueprint/morpha/vertical2.json",
+				"assets/animated_java/models/blueprint/morpha/vertical3.json",
+				"assets/animated_java/models/blueprint/morpha/vertical4.json",
+				"assets/animated_java/models/blueprint/morpha/vertical5.json"
 			]
 		},
 		"gohma": {

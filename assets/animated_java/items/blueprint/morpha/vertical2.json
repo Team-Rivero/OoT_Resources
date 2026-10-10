@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "aj:blueprint/morpha/horizontal7",
+		"model": "animated_java:blueprint/morpha/vertical2",
 		"tints": [
 			{"type": "minecraft:dye", "default": [1, 1, 1]}
 		]
