@@ -1,0 +1,194 @@
+{
+	"credit": "Made with Animated Java (https://github.com/Animated-Java/animated-java) via Blockbench",
+	"textures": {
+		"particle": "minecraft:item/pufferfish",
+		"slot_red_concrete_powder_slot": "minecraft:block/red_concrete_powder"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6, 6, 5],
+			"to": [10, 8, 11],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 4, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"east": {
+					"uv": [0, 0, 6, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"south": {
+					"uv": [0, 0, 4, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"west": {
+					"uv": [0, 0, 6, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"up": {
+					"uv": [0, 0, 4, 6],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"down": {
+					"uv": [0, 0, 4, 6],
+					"texture": "#slot_red_concrete_powder_slot"
+				}
+			}
+		},
+		{
+			"from": [5, 6, 6],
+			"to": [11, 8, 10],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 6, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"east": {
+					"uv": [0, 0, 4, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"south": {
+					"uv": [0, 0, 6, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"west": {
+					"uv": [0, 0, 4, 2],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"up": {
+					"uv": [0, 0, 6, 4],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"down": {
+					"uv": [0, 0, 6, 4],
+					"texture": "#slot_red_concrete_powder_slot"
+				}
+			}
+		},
+		{
+			"from": [6, -2, 4],
+			"to": [10, 6, 12],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 11, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [6, 8, 10, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"east": {
+					"uv": [4, 8, 12, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"south": {
+					"uv": [6, 8, 10, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"west": {
+					"uv": [4, 8, 12, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"up": {
+					"uv": [6, 4, 10, 12],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"down": {
+					"uv": [6, 4, 10, 12],
+					"texture": "#slot_red_concrete_powder_slot"
+				}
+			}
+		},
+		{
+			"from": [5, -2, 5],
+			"to": [11, 6, 11],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 11, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"east": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"south": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"west": {
+					"uv": [5, 8, 11, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"up": {
+					"uv": [5, 5, 11, 11],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"down": {
+					"uv": [5, 5, 11, 11],
+					"texture": "#slot_red_concrete_powder_slot"
+				}
+			}
+		},
+		{
+			"from": [4, -2, 6],
+			"to": [12, 6, 10],
+			"rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0,
+				"origin": [8, 11, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4, 8, 12, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"east": {
+					"uv": [6, 8, 10, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"south": {
+					"uv": [4, 8, 12, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"west": {
+					"uv": [6, 8, 10, 16],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"up": {
+					"uv": [4, 6, 12, 10],
+					"texture": "#slot_red_concrete_powder_slot"
+				},
+				"down": {
+					"uv": [4, 6, 12, 10],
+					"texture": "#slot_red_concrete_powder_slot"
+				}
+			}
+		}
+	]
+}

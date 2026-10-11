@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"format": "animated-java:format/blueprint",
-		"format_version": "1.10.2",
+		"format_version": "1.11.0",
 		"uuid": "6ccdd083-f92e-a96e-1c21-50cf2a2a7d59",
 		"save_location": "D:\\ATLauncher\\instances\\Minecraft262withFabric\\resourcepacks\\OoT_Resources\\assets\\minecraft\\models\\blueprints\\tentacle.ajblueprint",
 		"last_used_blueprint_id": "aj:tentacle"
@@ -11,7 +11,7 @@
 		"height": 16
 	},
 	"blueprint_settings": {
-		"blueprint_id": "aj:tentacle",
+		"blueprint_id": "animated_java:tentacle",
 		"render_box": [48, 48],
 		"resource_pack": "D:\\ATLauncher\\instances\\Minecraft262withFabric\\resourcepacks\\OoT_Resources",
 		"data_pack": "D:\\ATLauncher\\servers\\OoT\\world\\datapacks\\OoT_Data",
@@ -38,27 +38,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 6, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 6, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -83,27 +83,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 6, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 6, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -128,27 +128,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 4, 1],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 4, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 4, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -173,27 +173,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -218,27 +218,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -308,27 +308,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 4, 6],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -353,27 +353,27 @@
 			"faces": {
 				"north": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [0, 0, 6, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [0, 0, 4, 2],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [0, 0, 6, 4],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -398,27 +398,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -443,27 +443,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -488,27 +488,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -533,27 +533,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -578,27 +578,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -623,27 +623,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -668,27 +668,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -713,27 +713,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -758,27 +758,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -803,27 +803,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -848,27 +848,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -893,27 +893,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -938,27 +938,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -983,27 +983,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1028,27 +1028,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 15],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1073,27 +1073,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1118,27 +1118,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1163,27 +1163,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1208,27 +1208,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1253,27 +1253,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1298,27 +1298,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1343,27 +1343,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1388,27 +1388,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1433,27 +1433,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1478,27 +1478,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1523,27 +1523,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1568,27 +1568,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1613,27 +1613,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1658,27 +1658,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1703,27 +1703,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1748,27 +1748,27 @@
 			"faces": {
 				"north": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [4, 6, 12, 10],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1793,27 +1793,27 @@
 			"faces": {
 				"north": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [6, 8, 10, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [4, 8, 12, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [6, 4, 10, 12],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -1838,27 +1838,27 @@
 			"faces": {
 				"north": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"east": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"south": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"west": {
 					"uv": [5, 8, 11, 16],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"up": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				},
 				"down": {
 					"uv": [5, 5, 11, 11],
-					"texture": "42dc5ff2-6435-2303-349c-1ee8739aa4f9"
+					"texture": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 				}
 			},
 			"type": "cube",
@@ -3504,6 +3504,7 @@
 			]
 		}
 	],
+	"texture_groups": [],
 	"textures": [
 		{
 			"name": "red_concrete_powder.png",
@@ -3528,10 +3529,13 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": false,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
@@ -3561,10 +3565,13 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": false,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
@@ -3594,10 +3601,13 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": false,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
@@ -3627,10 +3637,13 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1.5,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": true,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
@@ -3660,10 +3673,13 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": false,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
@@ -3693,15 +3709,51 @@
 			"wrap_mode": "limited",
 			"pbr_channel": "color",
 			"fps": 7,
+			"force_translucent": false,
 			"frame_time": 1,
 			"frame_order_type": "loop",
 			"frame_order": "",
 			"frame_interpolate": false,
+			"is_texture_slot": false,
+			"slot_textures": [],
 			"visible": true,
 			"internal": true,
 			"saved": true,
 			"uuid": "416b2c8f-bb2b-aff1-bdad-7657fb60bc1b",
 			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxUlEQVR4ASySy87cRBCFv27bbY89M54Z/j+JggTs4RlASZQIIYiCEBsejV24rFiAeAFehC2goPyZi++XdnP+ETOy3FU+VXXOqbafPfk+fPX1r+HVN79f31+++i188fKX8OzFj+H55z+HJ89+0PP6mnv64qfwUrhvv/sjfKq6p89fB2ttxjxPeO9p6oa2uaOrK6apxxhY5WuyVc56/YggTF1dqKt/2e0fKrbYxCWk2Zph8EqMhMWy6H+4UUGAYWqBQNcdiROn4z3OU53uiF2KBU9bn4hij4kTlmUmijKGrhYDy9ge/2fYgxgVRQnE2NipZsB6b7DiOvQTkRBxUnD/u8+HYNjsHqpZI3kVxlj6tqLrT5T7W9UlWBhFf8KYRR13OGdJ05RJvszjSN80HB58wGa9VaOzsD0rSQ5hojqfsFFkKXcHdQpkRZBBJwH7a7wqUly64vLuDcY6Hn/4MettqSJHfTmT5RusNY5hbEjzHZfTOxJX4JcRG8WyLmMJgXmZaKoTb/76U354nMvY7h+RulyDMNI1YIwlzzaUhxsimRnZhHlq6PuGfHVLsJOsMdrUTC+Dj2//1uAWe6nuJKGkbS4sxgvkKfcHre1CHEdsyx3jdJbureKMJMswNtK6Z8UptixvrsbU1T9M46xzI32NCla0bY/VRXNprsnoe6fpnRrkJGkmbIttNHlU4fsffaLpk1wfdCt7Jr+oSUrTnhSPDFNHsXmPNEmEa64MprHCbssHpGlCX0vCkggcYFl0mWKmpSWxhtV6rThi6I+kq0K+TMLNuHSLRQ4PkycErw9vIUib02b6SsU7/GwYO+WSFEx0leDnXuu8JbIW64q1XM6IBciyrZJO5wSXFcLP+CAfZK73HX4clLMaFkSyE5sc29VnURuoz0dRitnfPNb6PGNfY3AYk7BoORGJCi3jMGhIwtD0NJcj/wEAAP//3M6SYwAAAAZJREFUAwAI4otZE3DvnwAAAABJRU5ErkJggg=="
+		},
+		{
+			"name": "red_concrete_powder_slot",
+			"folder": "",
+			"namespace": "",
+			"id": "6",
+			"group": "",
+			"scope": 0,
+			"width": 16,
+			"height": 16,
+			"uv_width": 16,
+			"uv_height": 16,
+			"particle": false,
+			"use_as_default": false,
+			"layers_enabled": false,
+			"sync_to_project": "",
+			"file_format": "png",
+			"render_mode": "default",
+			"render_sides": "auto",
+			"wrap_mode": "limited",
+			"pbr_channel": "color",
+			"fps": 7,
+			"force_translucent": false,
+			"frame_time": 1,
+			"frame_order_type": "loop",
+			"frame_order": "",
+			"frame_interpolate": false,
+			"is_texture_slot": true,
+			"slot_textures": ["42dc5ff2-6435-2303-349c-1ee8739aa4f9", "416b2c8f-bb2b-aff1-bdad-7657fb60bc1b", "20034ba9-2f04-0203-3cdf-5f972f7c3086"],
+			"visible": true,
+			"internal": true,
+			"saved": true,
+			"uuid": "3bd3d701-9b31-4915-929d-81e4ea89626a"
 		}
 	],
 	"variants": {
@@ -3709,7 +3761,7 @@
 			"name": "default",
 			"display_name": "Default",
 			"uuid": "3c221929-63af-7060-99d1-efa8b24c8d63",
-			"texture_map": {},
+			"slot_textures": {},
 			"excluded_nodes": [],
 			"is_default": true
 		},
@@ -3718,8 +3770,8 @@
 				"name": "blue",
 				"display_name": "Blue",
 				"uuid": "88447917-41ae-8f4d-decb-65fc87a9e1bb",
-				"texture_map": {
-					"42dc5ff2-6435-2303-349c-1ee8739aa4f9": "416b2c8f-bb2b-aff1-bdad-7657fb60bc1b"
+				"slot_textures": {
+					"3bd3d701-9b31-4915-929d-81e4ea89626a": "416b2c8f-bb2b-aff1-bdad-7657fb60bc1b"
 				},
 				"excluded_nodes": []
 			},
@@ -3727,8 +3779,8 @@
 				"name": "green",
 				"display_name": "Green",
 				"uuid": "805e50da-5a09-f6de-663e-895b1c679c71",
-				"texture_map": {
-					"42dc5ff2-6435-2303-349c-1ee8739aa4f9": "20034ba9-2f04-0203-3cdf-5f972f7c3086"
+				"slot_textures": {
+					"3bd3d701-9b31-4915-929d-81e4ea89626a": "20034ba9-2f04-0203-3cdf-5f972f7c3086"
 				},
 				"excluded_nodes": []
 			}
@@ -3742,7 +3794,7 @@
 			"override": false,
 			"length": 1,
 			"snapping": 20,
-			"selected": true,
+			"selected": false,
 			"saved": true,
 			"path": "",
 			"scope": 0,
@@ -3751,6 +3803,8 @@
 			"start_delay": "",
 			"loop_delay": "0",
 			"excluded_nodes": [],
+			"preview_variants": [],
+			"preview_texture_slots": {},
 			"animators": {
 				"980b16ca-a83c-a32e-86b7-61ab01a139d6": {
 					"name": "tentacle",
@@ -5019,6 +5073,8 @@
 			"start_delay": "",
 			"loop_delay": "0",
 			"excluded_nodes": [],
+			"preview_variants": [],
+			"preview_texture_slots": {},
 			"animators": {
 				"980b16ca-a83c-a32e-86b7-61ab01a139d6": {
 					"name": "tentacle",
@@ -5258,6 +5314,8 @@
 			"start_delay": "",
 			"loop_delay": "0",
 			"excluded_nodes": [],
+			"preview_variants": [],
+			"preview_texture_slots": {},
 			"animators": {
 				"980b16ca-a83c-a32e-86b7-61ab01a139d6": {
 					"name": "tentacle",
@@ -5416,6 +5474,8 @@
 			"start_delay": "",
 			"loop_delay": "0",
 			"excluded_nodes": [],
+			"preview_variants": [],
+			"preview_texture_slots": {},
 			"animators": {
 				"980b16ca-a83c-a32e-86b7-61ab01a139d6": {
 					"name": "tentacle",
@@ -5574,6 +5634,8 @@
 			"start_delay": "",
 			"loop_delay": "0",
 			"excluded_nodes": [],
+			"preview_variants": [],
+			"preview_texture_slots": {},
 			"animators": {
 				"980b16ca-a83c-a32e-86b7-61ab01a139d6": {
 					"name": "tentacle",

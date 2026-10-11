@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Animated Java (https://github.com/Animated-Java/animated-java) via Blockbench",
+	"parent": "animated_java:blueprint/tentacle/bone_2/red_concrete_powder_slot",
+	"textures": {
+		"slot_red_concrete_powder_slot": "minecraft:block/lime_concrete_powder"
+	}
+}
