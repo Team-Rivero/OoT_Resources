@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Animated Java (https://github.com/Animated-Java/animated-java) via Blockbench",
 	"textures": {
-		"0": "minecraft:block/pink_stained_glass",
+		"0": "minecraft:block/morpha",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -37,6 +37,10 @@
 					"texture": "#0"
 				},
 				"up": {
+					"uv": [2, 4, 14, 16],
+					"texture": "#0"
+				},
+				"down": {
 					"uv": [2, 4, 14, 16],
 					"texture": "#0"
 				}
