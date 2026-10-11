@@ -35,7 +35,8 @@
 				"assets/animated_java/models/blueprint/morpha/vertical2.json",
 				"assets/animated_java/models/blueprint/morpha/vertical3.json",
 				"assets/animated_java/models/blueprint/morpha/vertical4.json",
-				"assets/animated_java/models/blueprint/morpha/vertical5.json"
+				"assets/animated_java/models/blueprint/morpha/vertical5.json",
+				"assets/animated_java/textures/blueprint/morpha/morpha.png"
 			]
 		},
 		"animated_java:tentacle": {
