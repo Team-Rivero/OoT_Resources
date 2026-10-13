@@ -13,7 +13,7 @@
 	"blueprint_settings": {
 		"blueprint_id": "animated_java:morpha",
 		"target_minecraft_version": "26.3",
-		"resource_pack": "D:\\ATLauncher\\instances\\Minecraft262withFabric\\resourcepacks\\OoT_Resources",
+		"resource_pack": "D:\\ATLauncher\\instances\\Minecraft263withFabric\\resourcepacks\\OoT_Resources",
 		"data_pack": "D:\\ATLauncher\\servers\\OoT\\world\\datapacks\\OoT_Data"
 	},
 	"elements": [
@@ -14112,7 +14112,7 @@
 			"override": false,
 			"length": 19.15,
 			"snapping": 20,
-			"selected": false,
+			"selected": true,
 			"saved": true,
 			"path": "",
 			"scope": 0,
