@@ -1653,10 +1653,59 @@
         }
       },
       {
-        "when": "locked_door",
+        "when": "locked_door_spruce",
         "model": {
           "type": "model",
-          "model": "block/locked_door"
+          "model": "block/locked_door_spruce"
+        }
+      },
+      {
+        "when": "locked_door_pale_oak",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_pale_oak"
+        }
+      },
+      {
+        "when": "locked_door_dark_oak",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_dark_oak"
+        }
+      },
+      {
+        "when": "locked_door_poplar",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_poplar"
+        }
+      },
+      {
+        "when": "locked_door_waxed_copper",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_waxed_copper"
+        }
+      },
+      {
+        "when": "locked_door_bamboo",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_bamboo"
+        }
+      },
+      {
+        "when": "locked_door_mangrove",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_mangrove"
+        }
+      },
+      {
+        "when": "locked_door_iron",
+        "model": {
+          "type": "model",
+          "model": "block/locked_door_iron"
         }
       },
       {
@@ -1727,6 +1776,13 @@
         "model": {
           "type": "model",
           "model": "block/forest_temple_floor_arrow"
+        }
+      },
+      {
+        "when": "skeleton",
+        "model": {
+          "type": "model",
+          "model": "block/skeleton"
         }
       }
     ]
