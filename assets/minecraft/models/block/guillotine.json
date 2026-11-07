@@ -1,17 +1,18 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/smooth_stone",
 		"1": "block/red_nether_bricks",
 		"2": "block/anvil",
-		"3": "block/chain",
+		"3": "block/iron_chain",
 		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{
 			"from": [7.22375, -1.545, 8],
 			"to": [8.77625, 6.735, 8],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 16], "texture": "#3"},
@@ -25,7 +26,7 @@
 		{
 			"from": [7.22375, 6.735, 8],
 			"to": [8.77625, 15.015, 8],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 16], "texture": "#3"},
@@ -39,7 +40,7 @@
 		{
 			"from": [7.22375, 15.015, 8],
 			"to": [8.77625, 23.295, 8],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 16], "texture": "#3"},
@@ -53,7 +54,7 @@
 		{
 			"from": [7.22375, 23.295, 8],
 			"to": [8.77625, 31.575, 8],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 16], "texture": "#3"},
@@ -67,7 +68,7 @@
 		{
 			"from": [8, -1.545, 7.22375],
 			"to": [8, 6.735, 8.77625],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#3"},
@@ -81,7 +82,7 @@
 		{
 			"from": [8, 6.735, 7.22375],
 			"to": [8, 15.015, 8.77625],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#3"},
@@ -95,7 +96,7 @@
 		{
 			"from": [8, 15.015, 7.22375],
 			"to": [8, 23.295, 8.77625],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#3"},
@@ -109,7 +110,7 @@
 		{
 			"from": [8, 23.295, 7.22375],
 			"to": [8, 31.575, 8.77625],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.58, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#3"},
@@ -313,17 +314,20 @@
 		{
 			"name": "Guillotine",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Chain",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7]
 				},
 				{
 					"name": "Stab",
 					"origin": [8, 8, 8],
+					"scope": 0,
 					"color": 0,
 					"children": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 				}

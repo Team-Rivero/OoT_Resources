@@ -1,9 +1,10 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "entity/skeleton/skeleton",
+		"0": "block/skeleton",
 		"1": "block/torch",
-		"particle": "entity/skeleton/skeleton"
+		"particle": "block/skeleton"
 	},
 	"elements": [
 		{

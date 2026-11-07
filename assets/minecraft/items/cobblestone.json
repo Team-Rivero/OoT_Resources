@@ -722,17 +722,10 @@
         }
       },
       {
-        "when": "scythe_blade",
+        "when": "shadow_temple_scythe",
         "model": {
           "type": "model",
-          "model": "block/scythe_blade"
-        }
-      },
-      {
-        "when": "scythe_center",
-        "model": {
-          "type": "model",
-          "model": "block/scythe_center"
+          "model": "block/shadow_temple_scythe"
         }
       },
       {
@@ -904,10 +897,10 @@
         }
       },
       {
-        "when": "skull_torch",
+        "when": "shadow_temple_skull_torch",
         "model": {
           "type": "model",
-          "model": "block/skull_torch"
+          "model": "block/shadow_temple_skull_torch"
         }
       },
       {
@@ -918,17 +911,17 @@
         }
       },
       {
-        "when": "spike_wall",
+        "when": "shadow_temple_spike_wall",
         "model": {
           "type": "model",
-          "model": "block/spike_wall"
+          "model": "block/shadow_temple_spike_wall"
         }
       },
       {
-        "when": "skull_pot",
+        "when": "shadow_temple_skull_pot",
         "model": {
           "type": "model",
-          "model": "block/skull_pot"
+          "model": "block/shadow_temple_skull_pot"
         }
       },
       {

@@ -1,7 +1,8 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/red_nether_bricks",
+		"1": "block/deepslate_tiles",
 		"2": "block/dark_oak_planks",
 		"3": "block/bell_bottom",
 		"4": "block/bell_side",
@@ -5588,6 +5589,7 @@
 		{
 			"name": "Boat",
 			"origin": [-3, 0, 21],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				0,
