@@ -918,6 +918,13 @@
         }
       },
       {
+        "when": "shadow_temple_boat",
+        "model": {
+          "type": "model",
+          "model": "block/shadow_temple_boat"
+        }
+      },
+      {
         "when": "shadow_temple_skull_pot",
         "model": {
           "type": "model",
