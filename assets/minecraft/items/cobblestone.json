@@ -1784,6 +1784,20 @@
           "type": "model",
           "model": "block/skeleton"
         }
+      },
+      {
+        "when": "wither_skull",
+        "model": {
+          "type": "model",
+          "model": "block/wither_skull"
+        }
+      },
+      {
+        "when": "shadow_temple_fake_wall",
+        "model": {
+          "type": "model",
+          "model": "block/shadow_temple_fake_wall"
+        }
       }
     ]
   }
